@@ -1,0 +1,11 @@
+GUID 4fd527ecc3bc4f62a63763f42f88785c
+Type Large
+ID 54623
+
+Rubble Destroy
+Rubble_Reset 300
+Rubble_Health 2750
+Rubble_Effect 72
+Has_Clip_Prefab false
+
+Exclude_From_Master_Bundle

@@ -1,0 +1,24 @@
+Type Spawn
+ID 4545
+
+Roots 5
+Root_0_Spawn_ID 552
+Root_0_Weight 3
+Root_1_Spawn_ID 344
+Root_1_Weight 3
+Root_2_Spawn_ID 654
+Root_2_Weight 3
+Root_3_Spawn_ID 648
+Root_3_Weight 3
+Root_4_Spawn_ID 335
+Root_4_Weight 3
+
+Tables 4
+Table_0_Asset_ID 34108
+Table_0_Weight 2
+Table_1_Asset_ID 33001
+Table_1_Weight 2
+Table_2_Asset_ID 33000
+Table_2_Weight 2
+Table_3_Asset_ID 40005
+Table_3_Weight 1

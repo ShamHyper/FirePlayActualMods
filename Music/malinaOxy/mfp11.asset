@@ -1,0 +1,17 @@
+"Metadata"
+{
+	"GUID" "7fe910f9057a43c083707709f1062175"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "<color=red>[FP]</color>GAYAZOV$ BROTHER$ - МАЛИНОВАЯ ЛАДА(remix)"
+	"Song"
+	{
+		"MasterBundle" "mfp11.masterbundle"
+		"AssetPath" "MusicFP11/mfp11.mp3"
+	}
+	
+	"Is_Loop" "true"	
+}

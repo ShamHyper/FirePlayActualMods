@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 3389963850
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bc1d737fc4885870c2202b97a6d4ccf0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2b792694f9eecbf1fe08675c95c1b287
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+Assets:
+- Assets/PTO_TheDivisionMasterBundle/Items/Shirts/SHD-TG-TH-RG/Animations.prefab
+- Assets/PTO_TheDivisionMasterBundle/Items/Shirts/SHD-TG-TH-RG/Emission.png
+- Assets/PTO_TheDivisionMasterBundle/Items/Backpacks/SHD-EX-TP-RG/Item.prefab
+- Assets/PTO_TheDivisionMasterBundle/Items/Backpacks/SHD-711-F10-RG/Backpack.prefab
+- Assets/PTO_TheDivisionMasterBundle/Items/Backpacks/SHD-EX-RC-RG/Animations.prefab
+- Assets/PTO_TheDivisionMasterBundle/Items/Shirts/SHD-TG-TH-RG/Shirt.png
+- Assets/PTO_TheDivisionMasterBundle/Items/Backpacks/SHD-EX-RC-RG/Backpack.prefab
+- Assets/PTO_TheDivisionMasterBundle/Items/Backpacks/SHD-EX-TP-RG/Backpack.prefab
+- Assets/PTO_TheDivisionMasterBundle/Items/Backpacks/SHD-711-F10-RG/Item.prefab
+- Assets/PTO_TheDivisionMasterBundle/Items/Backpacks/SHD-711-F6-RG/Animations.prefab
+- Assets/PTO_TheDivisionMasterBundle/Items/Shirts/SHD-TG-TH-RG/Item.prefab
+- Assets/PTO_TheDivisionMasterBundle/Items/Backpacks/SHD-EX-TP-RG/Animations.prefab
+- Assets/PTO_TheDivisionMasterBundle/Items/Backpacks/SHD-711-F6-RG/Item.prefab
+- Assets/PTO_TheDivisionMasterBundle/Items/Shirts/SHD-TG-TH-RG/Material.mat
+- Assets/PTO_TheDivisionMasterBundle/Items/Backpacks/SHD-EX-GS-RG/Item.prefab
+- Assets/PTO_TheDivisionMasterBundle/Items/Backpacks/SHD-EX-GS-RG/Animations.prefab
+- Assets/PTO_TheDivisionMasterBundle/Items/Backpacks/SHD-EX-RC-RG/Item.prefab
+- Assets/PTO_TheDivisionMasterBundle/Items/Backpacks/SHD-711-F10-RG/Animations.prefab
+- Assets/PTO_TheDivisionMasterBundle/Items/Backpacks/SHD-EX-GS-RG/Backpack.prefab
+- Assets/PTO_TheDivisionMasterBundle/Items/Backpacks/SHD-711-F6-RG/Backpack.prefab
+Dependencies: []

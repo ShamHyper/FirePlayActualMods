@@ -1,0 +1,17 @@
+"Metadata"
+{
+	"GUID" "cb4b63b8f1c74680bc13dc52956b8835"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "<color=red>[FP]</color>Я мажу жопу..."
+	"Song"
+	{
+		"MasterBundle" "mfp1.masterbundle"
+		"AssetPath" "MusicFP1/mfp1.mp3"
+	}
+	
+	"Is_Loop" "true"	
+}

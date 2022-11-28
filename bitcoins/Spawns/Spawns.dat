@@ -1,0 +1,33 @@
+GUID e76702c755244cb8924d9dc1545be36f
+Type Spawn
+ID 50300
+
+Tables 4
+Table_0_Asset_ID 50300
+Table_0_Weight 10
+Table_1_Asset_ID 50301
+Table_1_Weight 10
+Table_2_Asset_ID 50302
+Table_2_Weight 10
+Table_3_Asset_ID 50303
+Table_3_Weight 10
+
+Roots 9
+Root_0_Spawn_ID 540
+Root_0_Weight 5
+Root_1_Spawn_ID 541
+Root_1_Weight 5
+Root_2_Spawn_ID 542
+Root_2_Weight 5
+Root_3_Spawn_ID 543
+Root_3_Weight 5
+Root_4_Spawn_ID 614
+Root_4_Weight 5
+Root_5_Spawn_ID 615
+Root_5_Weight 5
+Root_6_Spawn_ID 679
+Root_6_Weight 5
+Root_7_Spawn_ID 680
+Root_7_Weight 5
+Root_8_Spawn_ID 961
+Root_8_Weight 5

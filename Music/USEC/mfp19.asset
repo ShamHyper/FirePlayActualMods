@@ -1,0 +1,17 @@
+"Metadata"
+{
+	"GUID" "174de0c6e3ad4bee9a99e80584f15dd7"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "<color=red>[FP]</color>Гимн USEC"
+	"Song"
+	{
+		"MasterBundle" "mfp19.masterbundle"
+		"AssetPath" "MusicFP19/mfp19.mp3"
+	}
+	
+	"Is_Loop" "true"	
+}

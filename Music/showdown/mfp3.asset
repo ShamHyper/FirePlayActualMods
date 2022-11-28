@@ -1,0 +1,17 @@
+"Metadata"
+{
+	"GUID" "50c5c6dc0ef340e4a5c9385c9891dd3a"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "<color=red>[FP]</color>Shadowraze - showdown"
+	"Song"
+	{
+		"MasterBundle" "mfp3.masterbundle"
+		"AssetPath" "MusicFP3/mfp3.mp3"
+	}
+	
+	"Is_Loop" "true"	
+}

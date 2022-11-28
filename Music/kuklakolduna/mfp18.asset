@@ -1,0 +1,17 @@
+"Metadata"
+{
+	"GUID" "ca48111eff6b41ed8e4c8a2356c09773"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "<color=red>[FP]</color>Король и Шут - Кукла колдуна"
+	"Song"
+	{
+		"MasterBundle" "mfp18.masterbundle"
+		"AssetPath" "MusicFP18/mfp18.mp3"
+	}
+	
+	"Is_Loop" "true"	
+}

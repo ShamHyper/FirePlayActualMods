@@ -1,0 +1,29 @@
+GUID 8de89ae94bee45edbd880acf4c8f5f04
+Type Backpack
+Rarity Legendary
+Useable Clothing
+ID 33041
+
+Size_X 2
+Size_Y 2
+Size_Z 0.6
+
+Width 7
+Height 9
+
+Armor 0.85
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 33041
+Blueprint_0_Product 66
+Blueprint_0_Products 7
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 66
+Blueprint_1_Supply_0_Amount 8
+Blueprint_1_Tool 34108
+Blueprint_1_Level 2
+Blueprint_1_Skill Craft
+Blueprint_1_Build 32

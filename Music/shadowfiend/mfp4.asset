@@ -1,0 +1,17 @@
+"Metadata"
+{
+	"GUID" "db0217d033434a2e95bba0205be84710"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "<color=red>[FP]</color>Shadowraze - shadowfiend"
+	"Song"
+	{
+		"MasterBundle" "mfp4.masterbundle"
+		"AssetPath" "MusicFP4/Shadowraze - shadowfiend.mp3"
+	}
+	
+	"Is_Loop" "true"	
+}

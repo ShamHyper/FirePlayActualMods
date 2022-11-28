@@ -1,0 +1,299 @@
+ManifestFileVersion: 0
+CRC: 1128628350
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1a1ff1f2fc1303af197106d628af90e5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b2f537a236f5b2157e7a55ddd25f6f5a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 84
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+Assets:
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.13/Animations.prefab
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.3/Animations.prefab
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.11/Material.mat
+- Assets/Sniper/Bundles/Gun/Gewehr_43_#2/Reload.mp3
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.10/Shirt.png
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.10/Animations.prefab
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.6/Material.mat
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.13/Animations.prefab
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.15/Item.prefab
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.15/Shirt.png
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.13/Shirt.png
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.1/Shirt.png
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.12/Shirt.png
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.15/Item.prefab
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.15/Material.mat
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.8/Item.prefab
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.2/Material.mat
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.14/Material.mat
+- Assets/Sniper/Bundles/Hat/Sniper_helment_#3/Hat.prefab
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.3/Shirt.png
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.14/Shirt.png
+- Assets/Sniper/Bundles/Gun/Gewehr_43_#1/Hammer.mp3
+- Assets/Sniper/Bundles/Gun/Kar98k_#1/Hammer.mp3
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.1/Animations.prefab
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.3/Animations.prefab
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.15/Shirt.png
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.2/Shirt.png
+- Assets/Sniper/Bundles/Gun/Kar98k_#2/Animations.prefab
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.13/Shirt.png
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.10/Material.mat
+- Assets/Sniper/Bundles/Gun/Gewehr_43_#2/Shoot.mp3
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.7/Item.prefab
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.14/Item.prefab
+- Assets/Sniper/Bundles/Backpack/Sniper_backpack_#1/Animations.prefab
+- Assets/Sniper/Bundles/Hat/Sniper_hat_#1/Animations.prefab
+- Assets/Sniper/Bundles/Backpack/Sniper_backpack_#2/Item.prefab
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.11/Animations.prefab
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.1/Material.mat
+- Assets/Sniper/Bundles/Gun/Gewehr_43_#3/Item.prefab
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.1/Animations.prefab
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.6/Material.mat
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.6/Item.prefab
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.2/Item.prefab
+- Assets/Sniper/Bundles/Gun/Gewehr_43_#2/Hammer.mp3
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.8/Item.prefab
+- Assets/Sniper/Bundles/Hat/Sniper_helment_#2/Hat.prefab
+- Assets/Sniper/Bundles/Magazine/Box_ammo/Item.prefab
+- Assets/Sniper/Bundles/Gun/Kar98k_#2/Hammer.mp3
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.13/Material.mat
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.7/Material.mat
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.11/Item.prefab
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.7/Item.prefab
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.6/Animations.prefab
+- Assets/Sniper/Bundles/Hat/Sniper_hat_#1/Hat.prefab
+- Assets/Sniper/Bundles/Vest/Sniper_officer_vest/Vest.prefab
+- Assets/Sniper/Bundles/Backpack/Sniper_backpack_#2/Animations.prefab
+- Assets/Sniper/Bundles/Backpack/Sniper_backpack_#2/Backpack.prefab
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.13/Shirt.png
+- Assets/Sniper/Bundles/Sight/Kar98k_Scope_#2/Sight.prefab
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.4/Animations.prefab
+- Assets/Sniper/Bundles/Hat/Sniper_helment_#2/Animations.prefab
+- Assets/Sniper/Bundles/Backpack/Sniper_backpack_#1/Backpack.prefab
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.9/Shirt.png
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.14/Shirt.png
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.9/Material.mat
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.5/Shirt.png
+- Assets/Sniper/Bundles/Gun/Gewehr_43_#2/Animations.prefab
+- Assets/Sniper/Bundles/Sight/Kar98k_Scope#1/Item.prefab
+- Assets/Sniper/Bundles/Hat/Sniper_helment_#1/Item.prefab
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.3/Item.prefab
+- Assets/Sniper/Bundles/Vest/Sniper_officer_vest/Item.prefab
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.3/Shirt.png
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.5/Animations.prefab
+- Assets/Sniper/Bundles/Gun/Gewehr_43_#3/Hammer.mp3
+- Assets/Sniper/Bundles/Gun/Kar98k_#1/Shoot.mp3
+- Assets/Sniper/Bundles/Gun/Gewehr_43_#3/Shoot.mp3
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.14/Animations.prefab
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.15/Material.mat
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.13/Animations.prefab
+- Assets/Sniper/Bundles/Gun/Kar98k_#1/Reload.wav
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.15/Animations.prefab
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.6/Animations.prefab
+- Assets/Sniper/Bundles/Hat/Sniper_helment_#2/Item.prefab
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.9/Item.prefab
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.4/Item.prefab
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.9/Shirt.png
+- Assets/Sniper/Bundles/Hat/Sniper_helment_#1/Hat.prefab
+- Assets/Sniper/Bundles/Gun/Kar98k_#3/Item.prefab
+- Assets/Sniper/Bundles/Sight/Kar98k_Scope#1/Sight.prefab
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.9/Animations.prefab
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.2/Shirt.png
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.2/Material.mat
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.1/Animations.prefab
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.13/Item.prefab
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.14/Material.mat
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.15/Item.prefab
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.10/Item.prefab
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.8/Shirt.png
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.5/Material.mat
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.10/Animations.prefab
+- Assets/Sniper/Bundles/Hat/Sniper_helment_#3/Animations.prefab
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.6/Shirt.png
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.1/Item.prefab
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.14/Animations.prefab
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.7/Shirt.png
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.10/Shirt.png
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.3/Material.mat
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.12/Item.prefab
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.12/Item.prefab
+- Assets/Sniper/Bundles/Gun/Gewehr_43_#3/Animations.prefab
+- Assets/Sniper/Bundles/Hat/Sniper_helment_#1/Animations.prefab
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.5/Shirt.png
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.3/Animations.prefab
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.14/Item.prefab
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.7/Material.mat
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.11/Animations.prefab
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.3/Material.mat
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.4/Material.mat
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.9/Material.mat
+- Assets/Sniper/Bundles/Hat/Sniper_hat_#2/Animations.prefab
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.8/Material.mat
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.8/Item.prefab
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.5/Shirt.png
+- Assets/Sniper/Bundles/Sight/Kar98k_Scope_#3/Item.prefab
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.10/Material.mat
+- Assets/Sniper/Bundles/Hat/Sniper_helment_#3/Item.prefab
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.13/Material.mat
+- Assets/Sniper/Bundles/Gun/Kar98k_#3/Reload.wav
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.11/Shirt.png
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.1/Item.prefab
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.11/Material.mat
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.10/Animations.prefab
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.10/Item.prefab
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.5/Material.mat
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.4/Shirt.png
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.7/Animations.prefab
+- Assets/Sniper/Bundles/Magazine/Clip_Gewehr_43/Magazine.prefab
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.5/Item.prefab
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.10/Item.prefab
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.11/Animations.prefab
+- Assets/Sniper/Bundles/Gun/Gewehr_43_#2/Item.prefab
+- Assets/Sniper/Bundles/Hat/Sniper_hat_#2/Item.prefab
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.3/Item.prefab
+- Assets/Sniper/Bundles/Magazine/Clip_Kar98k/Magazine.prefab
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.1/Shirt.png
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.14/Animations.prefab
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.13/Item.prefab
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.15/Animations.prefab
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.2/Animations.prefab
+- Assets/Sniper/Bundles/Gun/Gewehr_43_#1/Shoot.mp3
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.6/Material.mat
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.9/Shirt.png
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.2/Shirt.png
+- Assets/Sniper/Bundles/Hat/Officer_hat/Animations.prefab
+- Assets/Sniper/Bundles/Vest/Sniper_vest_#1/Vest.prefab
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.5/Animations.prefab
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.13/Item.prefab
+- Assets/Sniper/Bundles/Sight/Sight_Gewehr_43_#1/Sight.prefab
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.5/Item.prefab
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.15/Shirt.png
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.12/Material.mat
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.2/Item.prefab
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.4/Shirt.png
+- Assets/Sniper/Bundles/Gun/Kar98k_#3/Shoot.mp3
+- Assets/Sniper/Bundles/Magazine/Clip_Gewehr_43/Item.prefab
+- Assets/Sniper/Bundles/Gun/Gewehr_43_#1/Animations.prefab
+- Assets/Sniper/Bundles/Gun/Kar98k_#2/Shoot.mp3
+- Assets/Sniper/Bundles/Gun/Gewehr_43_#1/Item.prefab
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.8/Material.mat
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.12/Animations.prefab
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.15/Material.mat
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.4/Animations.prefab
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.4/Animations.prefab
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.12/Item.prefab
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.11/Item.prefab
+- Assets/Sniper/Bundles/Hat/Sniper_hat_#2/Hat.prefab
+- Assets/Sniper/Bundles/Vest/Sniper_vest_#1/Animations.prefab
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.12/Animations.prefab
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.3/Item.prefab
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.6/Item.prefab
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.14/Material.mat
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.2/Item.prefab
+- Assets/Sniper/Bundles/Hat/Officer_hat/Hat.prefab
+- Assets/Sniper/Bundles/Gun/Kar98k_#1/Animations.prefab
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.1/Material.mat
+- Assets/Sniper/Bundles/Hat/Sniper_hat_#1/Item.prefab
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.7/Animations.prefab
+- Assets/Sniper/Bundles/Gun/Kar98k_#3/Animations.prefab
+- Assets/Sniper/Bundles/Hat/Officer_hat/Item.prefab
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.4/Shirt.png
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.2/Material.mat
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.1/Item.prefab
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.8/Animations.prefab
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.8/Material.mat
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.8/Animations.prefab
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.9/Animations.prefab
+- Assets/Sniper/Bundles/Gun/Kar98k_#3/Hammer.mp3
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.14/Shirt.png
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.11/Material.mat
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.1/Shirt.png
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.4/Material.mat
+- Assets/Sniper/Bundles/Sight/Kar98k_Scope_#3/Sight.prefab
+- Assets/Sniper/Bundles/Gun/Gewehr_43_#1/Reload.mp3
+- Assets/Sniper/Bundles/Magazine/Clip_Kar98k/Item.prefab
+- Assets/Sniper/Bundles/Sight/Sight_Gewehr_43_#1/Item.prefab
+- Assets/Sniper/Bundles/Gun/Gewehr_43_#3/Reload.mp3
+- Assets/Sniper/Bundles/Gun/Kar98k_#1/Item.prefab
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.7/Material.mat
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.6/Item.prefab
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.7/Shirt.png
+- Assets/Sniper/Bundles/Vest/Sniper_officer_vest/Animations.prefab
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.9/Item.prefab
+- Assets/Sniper/Bundles/Backpack/Sniper_backpack_#1/Item.prefab
+- Assets/Sniper/Bundles/Sight/Kar98k_Scope_#2/Item.prefab
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.6/Shirt.png
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.9/Material.mat
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.11/Shirt.png
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.10/Material.mat
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.2/Animations.prefab
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.8/Shirt.png
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.15/Animations.prefab
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.9/Item.prefab
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.10/Shirt.png
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.1/Material.mat
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.12/Material.mat
+- Assets/Sniper/Bundles/Vest/Sniper_vest_#1/Item.prefab
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.11/Shirt.png
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.5/Item.prefab
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.6/Animations.prefab
+- Assets/Sniper/Bundles/Vest/Sniper_vest_#2/Vest.prefab
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.12/Shirt.png
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.12/Material.mat
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.13/Material.mat
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.7/Item.prefab
+- Assets/Sniper/Bundles/Gun/Kar98k_#2/Item.prefab
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.3/Material.mat
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.6/Shirt.png
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.3/Shirt.png
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.4/Material.mat
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.9/Animations.prefab
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.7/Shirt.png
+- Assets/Sniper/Bundles/Gun/Kar98k_#2/Reload.wav
+- Assets/Sniper/Bundles/Vest/Sniper_vest_#2/Animations.prefab
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.8/Animations.prefab
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.5/Animations.prefab
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.4/Item.prefab
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.8/Shirt.png
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.12/Shirt.png
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.2/Animations.prefab
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.11/Item.prefab
+- Assets/Sniper/Bundles/Vest/Sniper_vest_#2/Item.prefab
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.7/Animations.prefab
+- Assets/Sniper/Bundles/Top_#3/Sniper_top_#3.12/Animations.prefab
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.4/Item.prefab
+- Assets/Sniper/Bundles/Top_#2/Sniper_top_#2.14/Item.prefab
+- Assets/Sniper/Bundles/Top_#1/Sniper_top_#1.5/Material.mat
+Dependencies: []

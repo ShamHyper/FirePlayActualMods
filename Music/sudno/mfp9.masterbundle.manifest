@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 549194558
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6b8b0c93708ebe79ae1c9102a12bc356
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MusicFP9/mfp9.mp3
+Dependencies: []

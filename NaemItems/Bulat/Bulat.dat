@@ -1,0 +1,22 @@
+GUID 4706971f20b84e248b358f1fee2e2f62
+
+Type Vest
+Useable Clothing
+ID 18661
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Width 3
+Height 1
+
+Armor 0.54
+
+Blueprints 0
+
+Proof_Fire
+
+Proof_Acid
+
+Exclude_From_Master_Bundle

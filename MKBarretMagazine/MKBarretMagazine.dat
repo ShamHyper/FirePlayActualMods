@@ -1,0 +1,36 @@
+GUID 6e5ad4918aa547748fbbde82385a72a3
+
+Type Magazine
+Rarity Mythical
+ID 49031
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Amount 3
+Count_Min 1
+Count_Max 2
+
+Calibers 1
+Caliber_0 38
+
+Tracer 49
+
+Range 6
+Player_Damage 150
+Zombie_Damage 250
+Animal_Damage 250
+Barricade_Damage 250
+Structure_Damage 250
+Vehicle_Damage 250
+Resource_Damage 250
+Object_Damage 250
+Explosion 136
+Explosive
+
+Blueprints 0
+
+Paintable
+
+Exclude_From_Master_Bundle

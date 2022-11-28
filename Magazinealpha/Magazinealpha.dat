@@ -1,0 +1,37 @@
+GUID 5fb9eccd27454f6790b70f5f79cfd3a1
+Type Magazine
+Rarity Mythical
+ID 52667
+
+Size_X 2
+Size_Y 2
+Size_Z 0.2
+
+Amount 20
+Count_Min 20
+Count_Max 20
+
+Calibers 1
+Caliber_0 38
+
+Tracer 49
+
+Range 6
+Player_Damage 100
+Zombie_Damage 100
+Animal_Damage 100
+Barricade_Damage 50
+Structure_Damage 50
+Vehicle_Damage 100
+Resource_Damage 100
+Object_Damage 125
+Explosion 136
+Explosive
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 1443
+Blueprint_0_Build 30
+
+Exclude_From_Master_Bundle

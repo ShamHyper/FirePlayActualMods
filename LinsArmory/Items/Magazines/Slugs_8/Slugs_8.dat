@@ -1,0 +1,29 @@
+GUID 332346d3e6ea48bd8c4643ea27337990
+Type Magazine
+Rarity Rare
+ID 27198
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Amount 8
+Count_Min 2
+Count_Max 7
+
+Calibers 1
+Caliber_0 8
+
+Ballistic_Damage_Multiplier 5
+
+Spread 0.5
+
+Tracer 48
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 27198
+Blueprint_0_Build 30
+
+Delete_Empty

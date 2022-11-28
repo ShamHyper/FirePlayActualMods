@@ -1,0 +1,18 @@
+GUID 12a74465cd0744219c751b628eaae450
+Type Spawn
+ID 27151
+Roots 5
+Root_0_Spawn_ID 138
+Root_0_Weight 10
+Root_1_Spawn_ID 352
+Root_1_Weight 10
+Root_2_Spawn_ID 485
+Root_2_Weight 10
+Root_3_Spawn_ID 629
+Root_3_Weight 10
+Root_4_Spawn_ID 779
+Root_4_Weight 10
+
+Tables 1
+Table_0_Asset_ID 27151
+Table_0_Weight 100

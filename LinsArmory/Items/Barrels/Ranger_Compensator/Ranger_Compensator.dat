@@ -1,0 +1,24 @@
+GUID 95f18b0f87c3491fa2d9e1d3369bd322
+Type Barrel
+Rarity Rare
+ID 27152
+
+Size_X 1
+Size_Y 1
+Size_Z 0.15
+
+Calibers 7
+Caliber_0 9
+Caliber_1 10
+Caliber_2 11
+Caliber_3 26
+Caliber_4 27
+Caliber_5 31
+Caliber_6 34
+
+Recoil_X 0.7
+Recoil_Y 0.55
+Spread 0.9
+Shake 0.85
+
+Paintable

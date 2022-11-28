@@ -1,0 +1,17 @@
+"Metadata"
+{
+	"GUID" "336f1b77b44a4323b4b18ca74b01e80a"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "<color=red>[FP]</color>Shadowraze - astral step"
+	"Song"
+	{
+		"MasterBundle" "mfp5.masterbundle"
+		"AssetPath" "MusicFP5/mfp5.mp3"
+	}
+	
+	"Is_Loop" "true"	
+}

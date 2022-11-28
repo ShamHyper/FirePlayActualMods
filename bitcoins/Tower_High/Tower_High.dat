@@ -1,0 +1,34 @@
+GUID 1ed4060f2f224b988ca914fd7ca2e77f
+Type Farm
+Useable Barricade
+Build Farm
+ID 50307
+
+Size_X 2
+Size_Y 3
+Size_Z 1
+
+Health 10
+Range 4
+Radius 0.5
+Offset 0.75
+
+Allow_Fertilizer False
+
+Ignore_Soil_Restrictions
+
+Growth 86400
+Grow 50308
+
+Explosion 36
+Vulnerable
+Unrepairable
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 50304
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Supply_1_ID 68
+Blueprint_0_Supply_1_Amount 12
+Blueprint_0_Build 27

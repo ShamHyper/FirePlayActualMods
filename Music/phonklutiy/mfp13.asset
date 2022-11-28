@@ -1,0 +1,17 @@
+"Metadata"
+{
+	"GUID" "a2ba10b3366c4f91b5abf780767afbcf"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "<color=red>[FP]</color>4WHEEL - KERAUNOS KILLER(remix)"
+	"Song"
+	{
+		"MasterBundle" "mfp13.masterbundle"
+		"AssetPath" "MusicFP13/mfp13.mp3"
+	}
+	
+	"Is_Loop" "true"	
+}

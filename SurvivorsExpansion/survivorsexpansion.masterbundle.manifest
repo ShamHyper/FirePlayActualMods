@@ -1,0 +1,331 @@
+ManifestFileVersion: 0
+CRC: 3395920976
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 46094c1e7c95a2b57a6c69cd06a0e01a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 71a40f6d81acf56e178b1c5882656fd3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 146
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/Survivors_Expansion/Items/Books/Yellow_Book/Animations.prefab
+- Assets/Models/Survivors_Expansion/Items/Flags/Flag_Germany/Nav.prefab
+- Assets/Models/Survivors_Expansion/Items/Books/Blue_Book/Animations.prefab
+- Assets/Models/Survivors_Expansion/Items/Misc/Wood_Boat/Use.mp3
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_Purple/Use.mp3
+- Assets/Models/Survivors_Expansion/Items/Books/Black_Book/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Fences/Wood_Fence/Barricade.prefab
+- Assets/Models/Survivors_Expansion/Items/Flags/Flag_USA/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Bedrolls/Spawnpoint/Animations.prefab
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_Red/Nav.prefab
+- Assets/Models/Survivors_Expansion/Items/Bedrolls/Sleeping_Place/Barricade.prefab
+- Assets/Models/Survivors_Expansion/Items/Fences/Stone_Wall_High/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Bedrolls/Spawnpoint/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Books/Yellow_Book/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Books/Black_Book/Use.mp3
+- Assets/Models/Survivors_Expansion/Items/Fences/Metal_Fence/Nav.prefab
+- Assets/Models/Survivors_Expansion/Items/Misc/Grave/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Big/Watch_Tower/Structure.prefab
+- Assets/Models/Survivors_Expansion/Items/Misc/Car_Lift/Use.mp3
+- Assets/Models/Survivors_Expansion/Items/Fences/Metal_Fence/Animations.prefab
+- Assets/Models/Survivors_Expansion/Items/Big/Helipad/Structure.prefab
+- Assets/Models/Survivors_Expansion/Items/Books/Blue_Book/Use.mp3
+- Assets/Models/Survivors_Expansion/Items/Misc/Grave/Nav.prefab
+- Assets/Models/Survivors_Expansion/Items/Garbage/Garbage_Black/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Vehicles/Civilian_Plane_Yellow/Ignition.mp3
+- Assets/Models/Survivors_Expansion/Items/Flags/Flag_Russia/Nav.prefab
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_Orange/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Books/Black_Book/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Misc/Dock/Animations.prefab
+- Assets/Models/Survivors_Expansion/Items/Flags/Flag_Canada/Use.mp3
+- Assets/Models/Survivors_Expansion/Items/Garbage/Garbage_Black/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Flags/Flag_Coalition/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Vehicles/Civilian_Plane_Yellow/Vehicle.prefab
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_Orange/Use.mp3
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_White/Barricade.prefab
+- Assets/Models/Survivors_Expansion/Items/Fences/White_Fence/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Garbage/Trash_Bin/Barricade.prefab
+- Assets/Models/Survivors_Expansion/Items/Books/Purple_Book/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Misc/Wine/Animations.prefab
+- Assets/Models/Survivors_Expansion/Items/Fences/Coalition_Wall/Animations.prefab
+- Assets/Models/Survivors_Expansion/Items/Misc/Weights/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Fences/Coalition_Wall_Windows/Animations.prefab
+- Assets/Models/Survivors_Expansion/Items/Garbage/Garbage_Yellow/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Garbage/Garbage_Black/Nav.prefab
+- Assets/Models/Survivors_Expansion/Items/Big/Watch_Tower/Animations.prefab
+- Assets/Models/Survivors_Expansion/Items/Books/Purple_Book/Barricade.prefab
+- Assets/Models/Survivors_Expansion/Items/Big/Helipad/Nav.prefab
+- Assets/Models/Survivors_Expansion/Items/Garbage/Trash_Bin/Use.mp3
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_Purple/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Big/Watch_Tower/Use.mp3
+- Assets/Models/Survivors_Expansion/Items/Bedrolls/Sleeping_Place/Nav.prefab
+- Assets/Models/Survivors_Expansion/Items/Bedrolls/Sleeping_Place/Animations.prefab
+- Assets/Models/Survivors_Expansion/Items/Vehicles/Civilian_Plane_Green/Ignition.mp3
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_White/Animations.prefab
+- Assets/Models/Survivors_Expansion/Items/Fences/Log_Wall/Barricade.prefab
+- Assets/Models/Survivors_Expansion/Items/Fences/Wood_Fence/Animations.prefab
+- Assets/Models/Survivors_Expansion/Items/Fences/White_Fence/Use.mp3
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_Black/Nav.prefab
+- Assets/Models/Survivors_Expansion/Items/Vehicles/Civilian_Plane_Green/Vehicle.prefab
+- Assets/Models/Survivors_Expansion/Items/Garbage/Trash_Bin/Nav.prefab
+- Assets/Models/Survivors_Expansion/Items/Fences/Coalition_Wall_Entrance/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Books/Orange_Book/Barricade.prefab
+- Assets/Models/Survivors_Expansion/Items/Misc/Root_Beer/Use.mp3
+- Assets/Models/Survivors_Expansion/Items/Fences/Log_Wall/Use.mp3
+- Assets/Models/Survivors_Expansion/Items/Books/Black_Book/Barricade.prefab
+- Assets/Models/Survivors_Expansion/Items/Misc/Newspaper/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Garbage/Garbage_Yellow/Barricade.prefab
+- Assets/Models/Survivors_Expansion/Items/Misc/Grave/Animations.prefab
+- Assets/Models/Survivors_Expansion/Items/Garbage/Trash_Bin/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Misc/Car_Lift/Animations.prefab
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_White/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Flags/Flag_Russia/Animations.prefab
+- Assets/Models/Survivors_Expansion/Items/Fences/Stone_Wall/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Books/Purple_Book/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_Orange/Animations.prefab
+- Assets/Models/Survivors_Expansion/Items/Misc/Car_Lift/Hinge.wav
+- Assets/Models/Survivors_Expansion/Items/Fences/White_Fence/Barricade.prefab
+- Assets/Models/Survivors_Expansion/Items/Fences/White_Fence/Nav.prefab
+- Assets/Models/Survivors_Expansion/Items/Misc/Car_Lift/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_Blue/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Books/Yellow_Book/Barricade.prefab
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_Black/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_Black/Use.mp3
+- Assets/Models/Survivors_Expansion/Items/Vehicles/Civilian_Plane_Purple/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Books/Red_Book/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Big/Helipad/Use.mp3
+- Assets/Models/Survivors_Expansion/Items/Flags/Flag_Coalition/Barricade.prefab
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_Yellow/Barricade.prefab
+- Assets/Models/Survivors_Expansion/Items/Fences/Metal_Fence/Use.mp3
+- Assets/Models/Survivors_Expansion/Items/Vehicles/Civilian_Plane_Blue/Vehicle.prefab
+- Assets/Models/Survivors_Expansion/Items/Flags/Flag_Coalition/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Misc/Weights/Animations.prefab
+- Assets/Models/Survivors_Expansion/Items/Fences/Metal_Fence/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Misc/Grave/Barricade.prefab
+- Assets/Models/Survivors_Expansion/Items/Flags/Flag_USA/Animations.prefab
+- Assets/Models/Survivors_Expansion/Items/Misc/Grave/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Vehicles/Civilian_Plane_Black/Ignition.mp3
+- Assets/Models/Survivors_Expansion/Items/Fences/Coalition_Wall_Entrance/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Flags/Flag_Canada/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Books/Blue_Book/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Misc/Wood_Boat/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_Yellow/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Vehicles/Civilian_Plane_Black/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Books/Black_Book/Animations.prefab
+- Assets/Models/Survivors_Expansion/Items/Fences/Stone_Wall_High/Barricade.prefab
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_Blue/Nav.prefab
+- Assets/Models/Survivors_Expansion/Items/Books/Orange_Book/Animations.prefab
+- Assets/Models/Survivors_Expansion/Items/Flags/Flag_Germany/Use.mp3
+- Assets/Models/Survivors_Expansion/Items/Flags/Flag_USA/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Fences/Coalition_Wall/Use.mp3
+- Assets/Models/Survivors_Expansion/Items/Books/Green_Book/Use.mp3
+- Assets/Models/Survivors_Expansion/Items/Misc/Wood_Boat/Barricade.prefab
+- Assets/Models/Survivors_Expansion/Items/Vehicles/Civilian_Plane_White/Vehicle.prefab
+- Assets/Models/Survivors_Expansion/Items/Books/Green_Book/Barricade.prefab
+- Assets/Models/Survivors_Expansion/Items/Garbage/Garbage_Yellow/Use.mp3
+- Assets/Models/Survivors_Expansion/Items/Books/Green_Book/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_Red/Animations.prefab
+- Assets/Models/Survivors_Expansion/Items/Fences/Wood_Fence/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Fences/Stone_Wall/Use.mp3
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_White/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_Orange/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Fences/Coalition_Wall/Nav.prefab
+- Assets/Models/Survivors_Expansion/Items/Vehicles/Wood_Boat/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Misc/Wood_Boat/Animations.prefab
+- Assets/Models/Survivors_Expansion/Items/Vehicles/Civilian_Plane_Red/Ignition.mp3
+- Assets/Models/Survivors_Expansion/Items/Fences/Log_Wall/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Misc/Newspaper/Use.mp3
+- Assets/Models/Survivors_Expansion/Items/Fences/Coalition_Wall_Entrance/Animations.prefab
+- Assets/Models/Survivors_Expansion/Items/Fences/Wood_Fence/Nav.prefab
+- Assets/Models/Survivors_Expansion/Items/Books/Red_Book/Use.mp3
+- Assets/Models/Survivors_Expansion/Items/Vehicles/Civilian_Plane_Red/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Fences/Stone_Wall/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Vehicles/Civilian_Plane_Blue/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Garbage/Garbage_Yellow/Nav.prefab
+- Assets/Models/Survivors_Expansion/Items/Big/Watch_Tower/Nav.prefab
+- Assets/Models/Survivors_Expansion/Items/Misc/Wood_Boat/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Misc/Newspaper/Animations.prefab
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_Yellow/Use.mp3
+- Assets/Models/Survivors_Expansion/Items/Vehicles/Civilian_Plane_Red/Vehicle.prefab
+- Assets/Models/Survivors_Expansion/Items/Big/Watch_Tower/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Fences/Stone_Wall/Nav.prefab
+- Assets/Models/Survivors_Expansion/Items/Fences/Wood_Fence/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Fences/Stone_Wall_High/Nav.prefab
+- Assets/Models/Survivors_Expansion/Items/Books/Red_Book/Animations.prefab
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_Purple/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Fences/Metal_Fence/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Fences/Stone_Wall/Barricade.prefab
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_Blue/Use.mp3
+- Assets/Models/Survivors_Expansion/Items/Fences/Coalition_Wall/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Fences/Coalition_Wall_Entrance/Barricade.prefab
+- Assets/Models/Survivors_Expansion/Items/Misc/Newspaper/Barricade.prefab
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_Blue/Barricade.prefab
+- Assets/Models/Survivors_Expansion/Items/Garbage/Garbage_Yellow/Animations.prefab
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_Black/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Flags/Flag_Germany/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Vehicles/Civilian_Plane_Green/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_Yellow/Nav.prefab
+- Assets/Models/Survivors_Expansion/Items/Flags/Flag_Canada/Nav.prefab
+- Assets/Models/Survivors_Expansion/Items/Flags/Flag_Canada/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Misc/Beer/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_Green/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Misc/Root_Beer/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Flags/Flag_Russia/Use.mp3
+- Assets/Models/Survivors_Expansion/Items/Bedrolls/Spawnpoint/Barricade.prefab
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_Purple/Barricade.prefab
+- Assets/Models/Survivors_Expansion/Items/Vehicles/Wood_Boat/Vehicle.prefab
+- Assets/Models/Survivors_Expansion/Items/Misc/Newspaper/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_Orange/Barricade.prefab
+- Assets/Models/Survivors_Expansion/Items/Flags/Flag_Canada/Animations.prefab
+- Assets/Models/Survivors_Expansion/Items/Bedrolls/Sleeping_Place/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Flags/Flag_Germany/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Flags/Flag_Coalition/Nav.prefab
+- Assets/Models/Survivors_Expansion/Items/Vehicles/Civilian_Plane_Blue/Ignition.mp3
+- Assets/Models/Survivors_Expansion/Items/Bedrolls/Spawnpoint/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Flags/Flag_Coalition/Animations.prefab
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_Green/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Flags/Flag_Russia/Barricade.prefab
+- Assets/Models/Survivors_Expansion/Items/Books/Blue_Book/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Fences/Log_Wall/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Flags/Flag_Germany/Animations.prefab
+- Assets/Models/Survivors_Expansion/Items/Vehicles/Civilian_Plane_Purple/Ignition.mp3
+- Assets/Models/Survivors_Expansion/Items/Misc/Wine/Use.mp3
+- Assets/Models/Survivors_Expansion/Items/Books/Green_Book/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Misc/Dock/Structure.prefab
+- Assets/Models/Survivors_Expansion/Items/Misc/Beer/Use.mp3
+- Assets/Models/Survivors_Expansion/Items/Books/Orange_Book/Use.mp3
+- Assets/Models/Survivors_Expansion/Items/Flags/Flag_USA/Barricade.prefab
+- Assets/Models/Survivors_Expansion/Items/Fences/White_Fence/Animations.prefab
+- Assets/Models/Survivors_Expansion/Items/Fences/Metal_Fence/Barricade.prefab
+- Assets/Models/Survivors_Expansion/Items/Books/Red_Book/Barricade.prefab
+- Assets/Models/Survivors_Expansion/Items/Misc/Car_Lift/Nav.prefab
+- Assets/Models/Survivors_Expansion/Items/Big/Helipad/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Fences/Log_Wall/Animations.prefab
+- Assets/Models/Survivors_Expansion/Items/Big/Helipad/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Fences/Coalition_Wall_Windows/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Misc/Grave/Use.mp3
+- Assets/Models/Survivors_Expansion/Items/Fences/White_Fence/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Fences/Stone_Wall_High/Use.mp3
+- Assets/Models/Survivors_Expansion/Items/Garbage/Garbage_Black/Animations.prefab
+- Assets/Models/Survivors_Expansion/Items/Big/Watch_Tower/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Vehicles/Civilian_Plane_White/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Vehicles/Civilian_Plane_Orange/Vehicle.prefab
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_Yellow/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Flags/Flag_Coalition/Use.mp3
+- Assets/Models/Survivors_Expansion/Items/Misc/Car_Lift/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Misc/Wine/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_White/Nav.prefab
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_Red/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Misc/Car_Lift/Barricade.prefab
+- Assets/Models/Survivors_Expansion/Items/Fences/Coalition_Wall/Barricade.prefab
+- Assets/Models/Survivors_Expansion/Items/Books/Orange_Book/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Books/Yellow_Book/Use.mp3
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_Green/Barricade.prefab
+- Assets/Models/Survivors_Expansion/Items/Fences/Coalition_Wall_Entrance/Nav.prefab
+- Assets/Models/Survivors_Expansion/Items/Vehicles/Wood_Boat/Ignition.wav
+- Assets/Models/Survivors_Expansion/Items/Misc/Dock/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_White/Use.mp3
+- Assets/Models/Survivors_Expansion/Items/Fences/Coalition_Wall_Windows/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Fences/Stone_Wall_High/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Garbage/Garbage_Black/Use.mp3
+- Assets/Models/Survivors_Expansion/Items/Misc/Dock/Nav.prefab
+- Assets/Models/Survivors_Expansion/Items/Flags/Flag_Germany/Barricade.prefab
+- Assets/Models/Survivors_Expansion/Items/Misc/Weights/Equip.wav
+- Assets/Models/Survivors_Expansion/Items/Fences/Log_Wall/Nav.prefab
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_Green/Nav.prefab
+- Assets/Models/Survivors_Expansion/Items/Vehicles/Civilian_Plane_Purple/Vehicle.prefab
+- Assets/Models/Survivors_Expansion/Items/Vehicles/Civilian_Plane_Black/Vehicle.prefab
+- Assets/Models/Survivors_Expansion/Items/Misc/Dock/Use.mp3
+- Assets/Models/Survivors_Expansion/Items/Fences/Coalition_Wall_Windows/Barricade.prefab
+- Assets/Models/Survivors_Expansion/Items/Fences/Stone_Wall/Animations.prefab
+- Assets/Models/Survivors_Expansion/Items/Flags/Flag_USA/Use.mp3
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_Blue/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Misc/Dock/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Garbage/Garbage_Black/Barricade.prefab
+- Assets/Models/Survivors_Expansion/Items/Bedrolls/Sleeping_Place/Use.mp3
+- Assets/Models/Survivors_Expansion/Items/Fences/Coalition_Wall/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Flags/Flag_Russia/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Flags/Flag_Canada/Barricade.prefab
+- Assets/Models/Survivors_Expansion/Items/Books/Red_Book/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Bedrolls/Sleeping_Place/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Books/Purple_Book/Animations.prefab
+- Assets/Models/Survivors_Expansion/Items/Misc/Beer/Animations.prefab
+- Assets/Models/Survivors_Expansion/Items/Garbage/Garbage_Yellow/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Flags/Flag_USA/Nav.prefab
+- Assets/Models/Survivors_Expansion/Items/Fences/Coalition_Wall_Entrance/Use.mp3
+- Assets/Models/Survivors_Expansion/Items/Flags/Flag_Russia/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_Black/Barricade.prefab
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_Blue/Animations.prefab
+- Assets/Models/Survivors_Expansion/Items/Vehicles/Civilian_Plane_Orange/Ignition.mp3
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_Red/Barricade.prefab
+- Assets/Models/Survivors_Expansion/Items/Fences/Coalition_Wall_Windows/Nav.prefab
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_Red/Use.mp3
+- Assets/Models/Survivors_Expansion/Items/Garbage/Trash_Bin/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_Purple/Animations.prefab
+- Assets/Models/Survivors_Expansion/Items/Fences/Coalition_Wall_Windows/Use.mp3
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_Green/Use.mp3
+- Assets/Models/Survivors_Expansion/Items/Vehicles/Civilian_Plane_Orange/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Misc/Newspaper/Nav.prefab
+- Assets/Models/Survivors_Expansion/Items/Books/Blue_Book/Barricade.prefab
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_Green/Animations.prefab
+- Assets/Models/Survivors_Expansion/Items/Vehicles/Civilian_Plane_White/Ignition.mp3
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_Orange/Nav.prefab
+- Assets/Models/Survivors_Expansion/Items/Fences/Stone_Wall_High/Animations.prefab
+- Assets/Models/Survivors_Expansion/Items/Books/Yellow_Book/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Garbage/Trash_Bin/Animations.prefab
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_Red/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_Yellow/Animations.prefab
+- Assets/Models/Survivors_Expansion/Items/Fences/Wood_Fence/Use.mp3
+- Assets/Models/Survivors_Expansion/Items/Books/Orange_Book/Item.prefab
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_Black/Animations.prefab
+- Assets/Models/Survivors_Expansion/Items/Vehicles/Civilian_Plane_Yellow/Clip.prefab
+- Assets/Models/Survivors_Expansion/Items/Big/Helipad/Animations.prefab
+- Assets/Models/Survivors_Expansion/Items/Misc/Root_Beer/Animations.prefab
+- Assets/Models/Survivors_Expansion/Items/Luggage/Luggage_Purple/Nav.prefab
+Dependencies: []

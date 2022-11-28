@@ -1,0 +1,39 @@
+GUID 31e3b6382fbd41dca2cac445558f3a2d
+
+Type Storage
+Rarity Mythical
+Useable Barricade
+Build Storage
+ID 40018
+
+Size_X 3
+Size_Y 2
+Size_Z 0.5
+
+Health 1000
+Range 4
+Radius 0.5
+Offset 0.75
+
+Storage_X 13
+Storage_Y 30
+
+Locked
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 68
+Blueprint_0_Supply_0_Amount 6
+Blueprint_0_Tool 76
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 27
+
+Armor_Tier High
+Should_Close_When_Outside_Range true
+PlacementAudioClip Sounds/MetalPlacement.mp3
+
+Exclude_From_Master_Bundle

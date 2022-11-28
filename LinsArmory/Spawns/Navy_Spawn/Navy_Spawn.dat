@@ -1,0 +1,12 @@
+GUID 489cbebdbed242b7aa932474d3295967
+Type Spawn
+ID 27167
+Roots 2
+Root_0_Spawn_ID 185
+Root_0_Weight 10
+Root_1_Spawn_ID 449
+Root_1_Weight 10
+
+Tables 1
+Table_0_Asset_ID 27167
+Table_0_Weight 100

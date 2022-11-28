@@ -1,0 +1,28 @@
+GUID 3a7399231e0247f8b7cf182a240657f6
+
+Type Hat
+Rarity Mythical
+Useable Clothing
+ID 40001
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Beard
+
+Armor 0.40
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 30001
+Blueprint_0_Product 67
+Blueprint_0_Products 2
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 67
+Blueprint_1_Supply_0_Amount 4
+Blueprint_1_Build 32
+
+Exclude_From_Master_Bundle

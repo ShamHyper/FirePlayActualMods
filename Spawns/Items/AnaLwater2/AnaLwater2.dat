@@ -1,0 +1,20 @@
+GUID a46a31d802d048c3b5c3c69b2fc01354
+
+Type Spawn
+ID 11111
+
+Roots 4
+Root_0_Spawn_ID 559
+Root_0_Weight 3
+Root_1_Spawn_ID 599
+Root_1_Weight 3
+Root_2_Spawn_ID 313
+Root_2_Weight 2
+Root_3_Spawn_ID 127
+Root_3_Weight 2
+
+Tables 2
+Table_0_Asset_ID 51590
+Table_0_Weight 3
+Table_1_Asset_ID 51666
+Table_1_Weight 1

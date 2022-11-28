@@ -1,0 +1,20 @@
+GUID e2582b0eac34401aa17193f347703202
+Type Supply
+Rarity Rare
+ID 32602
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Amount 25
+Count_Min 10
+Count_Max 25
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 1450
+Blueprint_0_Tool 32600
+Blueprint_0_Tool_Critical
+Blueprint_0_Build 27

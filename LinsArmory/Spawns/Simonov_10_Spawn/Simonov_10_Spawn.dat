@@ -1,0 +1,14 @@
+GUID f7538f738b00458caadab310fa048dca
+Type Spawn
+ID 27119
+Roots 3
+Root_0_Spawn_ID 650
+Root_0_Weight 10
+Root_1_Spawn_ID 231
+Root_1_Weight 10
+Root_2_Spawn_ID 769
+Root_2_Weight 10
+
+Tables 1
+Table_0_Asset_ID 27119
+Table_0_Weight 100

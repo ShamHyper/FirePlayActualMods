@@ -1,0 +1,18 @@
+GUID 2765ded57d2446a8b06f0b442d3ac38e
+Type Grip
+Rarity Rare
+ID 27102
+
+Size_X 1
+Size_Y 1
+Size_Z 0.175
+
+Calibers 1
+Caliber_0 2701
+
+Recoil_X 0.5
+Recoil_Y 0.7
+
+Spread 0.8
+Sway 0.75
+Shake 0.8

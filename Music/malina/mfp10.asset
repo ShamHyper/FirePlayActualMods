@@ -1,0 +1,17 @@
+"Metadata"
+{
+	"GUID" "93a58441b1c846238360a11450a0c14f"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "<color=red>[FP]</color>GAYAZOV$ BROTHER$ - МАЛИНОВАЯ ЛАДА"
+	"Song"
+	{
+		"MasterBundle" "mfp10.masterbundle"
+		"AssetPath" "MusicFP10/mfp10.mp3"
+	}
+	
+	"Is_Loop" "true"	
+}

@@ -1,0 +1,32 @@
+GUID 999fe6b1fe6241daa7ebad551386ecdd
+Type Magazine
+Rarity Epic
+ID 27214
+
+Size_X 2
+Size_Y 2
+Size_Z 0.24
+
+Amount 90
+Count_Min 10
+Count_Max 80
+
+Calibers 1
+Caliber_0 2729
+
+Tracer 48
+Speed 0.9
+
+Blueprints 3
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 119
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 27213
+Blueprint_1_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 27214
+Blueprint_2_Build 30

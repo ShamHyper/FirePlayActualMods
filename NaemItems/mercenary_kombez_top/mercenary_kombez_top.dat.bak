@@ -1,0 +1,40 @@
+GUID ab078814af954f1bb01b464a81dee435
+
+Type Shirt
+Useable Clothing
+ID 18613
+
+Size_X 3
+Size_Y 2
+Size_Z 0.60
+
+Width 2
+Height 1
+
+Armor 0.7
+
+Blueprints 2
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 18212
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 18211
+Blueprint_0_Supply_1_Amount 4
+Blueprint_0_Supply_2_ID 18213
+Blueprint_0_Supply_2_Amount 3
+Blueprint_0_Tool 18218
+Blueprint_0_Tool_Critical
+Blueprint_0_State_Transfer
+Blueprint_0_Level 2
+Blueprint_0_Skill Repair
+Blueprint_0_Build 27
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 18613
+Blueprint_1_Outputs 3
+Blueprint_1_Output_0_ID 18212
+Blueprint_1_Output_0_Amount 4
+Blueprint_1_Output_1_ID 18211
+Blueprint_1_Output_1_Amount 6
+Blueprint_1_Output_2_ID 18213
+Blueprint_1_Output_2_Amount 3

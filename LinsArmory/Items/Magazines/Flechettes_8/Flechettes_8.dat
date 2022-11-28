@@ -1,0 +1,31 @@
+GUID 0a87f3f227c045ab876cbffe4af47b55
+Type Magazine
+Rarity Epic
+ID 27199
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Amount 8
+Count_Min 2
+Count_Max 7
+
+Calibers 1
+Caliber_0 8
+
+Pellets 4
+
+Ballistic_Damage_Multiplier 1.7
+
+Spread 0.8
+
+Tracer 48
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 27199
+Blueprint_0_Build 30
+
+Delete_Empty

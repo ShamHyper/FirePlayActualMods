@@ -1,0 +1,16 @@
+GUID eee42402a8544ff5a9e490fcffc548e4
+Type Spawn
+ID 27176
+Roots 4
+Root_0_Spawn_ID 243
+Root_0_Weight 5
+Root_1_Spawn_ID 385
+Root_1_Weight 5
+Root_2_Spawn_ID 624
+Root_2_Weight 5
+Root_3_Spawn_ID 760
+Root_3_Weight 5
+
+Tables 1
+Table_0_Asset_ID 27176
+Table_0_Weight 100

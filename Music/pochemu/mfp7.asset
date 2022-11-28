@@ -1,0 +1,17 @@
+"Metadata"
+{
+	"GUID" "fffd55ee3eff4f539e96a0dd52e68186"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "<color=red>[FP]</color>MORGENSHTERN - ПОЧЕМУ"
+	"Song"
+	{
+		"MasterBundle" "mfp7.masterbundle"
+		"AssetPath" "MusicFP7/mfp7.mp3"
+	}
+	
+	"Is_Loop" "true"	
+}

@@ -1,0 +1,17 @@
+"Metadata"
+{
+	"GUID" "360d2c4e2aca474996b444d7d38ab457"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "<color=red>[FP]</color>ВЫКЛЮЧАТЕЛЬ - 163ONMYNECK"
+	"Song"
+	{
+		"MasterBundle" "mfp2.masterbundle"
+		"AssetPath" "MusicFP2/mfp2.mp3"
+	}
+	
+	"Is_Loop" "true"	
+}

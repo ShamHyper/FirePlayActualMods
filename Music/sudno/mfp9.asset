@@ -1,0 +1,17 @@
+"Metadata"
+{
+	"GUID" "7b86517c4b4d4336b77b3dd6351a6c80"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "<color=red>[FP]</color>Молчат Дома - Судно"
+	"Song"
+	{
+		"MasterBundle" "mfp9.masterbundle"
+		"AssetPath" "MusicFP9/mfp9.mp3"
+	}
+	
+	"Is_Loop" "true"	
+}

@@ -1,0 +1,18 @@
+GUID c4ed96534b574dba9e5770628b5528b0
+Type Barrel
+Rarity Epic
+ID 27109
+
+Size_X 1
+Size_Y 1
+Size_Z 0.185
+
+Calibers 1
+Caliber_0 2702
+
+Recoil_X 0.4
+Recoil_Y 0.7
+
+Spread 0.8
+Sway 0.75
+Shake 0.8

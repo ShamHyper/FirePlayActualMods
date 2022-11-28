@@ -1,0 +1,20 @@
+GUID dd6b2e9326f4472ca731da22d1cbf504
+Type Barricade
+Rarity Mythical
+Useable Barricade
+Build Barricade
+ID 53549
+
+Size_X 2
+Size_Y 2
+Size_Z 0.05
+
+Health 500
+Range 4
+Radius 1
+Offset 5
+
+Explosion 19
+
+Exclude_From_Master_Bundle
+

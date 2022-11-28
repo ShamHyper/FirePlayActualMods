@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1845618578
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: acf701ff19937593ec79e22ed1230229
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MusicFP14/mfp14.mp3
+Dependencies: []

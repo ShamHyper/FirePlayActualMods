@@ -1,0 +1,12 @@
+GUID 175ecafaf3ec4def9f690d041868f16a
+Type Spawn
+ID 27204
+Roots 2
+Root_0_Spawn_ID 650
+Root_0_Weight 2
+Root_1_Spawn_ID 237
+Root_1_Weight 4
+
+Tables 1
+Table_0_Asset_ID 27204
+Table_0_Weight 100

@@ -1,0 +1,69 @@
+ManifestFileVersion: 0
+CRC: 2827835279
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 435df0a524a8e73f0f8632ca619a2af0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4568cde3c5beab873a4e949b891f3589
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+Assets:
+- Assets/Project Dumfoozle/Other/Bundles/Bitcoins/Tower_Mid/Clip.prefab
+- Assets/Project Dumfoozle/Other/Bundles/Bitcoins/Bitcoin/Item.prefab
+- Assets/Project Dumfoozle/Other/Bundles/Bitcoins/RAM/Item.prefab
+- Assets/Project Dumfoozle/Other/Bundles/Bitcoins/Tower_Mid/Barricade.prefab
+- Assets/Project Dumfoozle/Other/Bundles/Bitcoins/Tower_Low/Item.prefab
+- Assets/Project Dumfoozle/Other/Bundles/Bitcoins/Tower_High/Use.mp3
+- Assets/Project Dumfoozle/Other/Bundles/Bitcoins/Tower_Low/Barricade.prefab
+- Assets/Project Dumfoozle/Other/Bundles/Bitcoins/Motherboard/Item.prefab
+- Assets/Project Dumfoozle/Other/Bundles/Bitcoins/Tower_High/Barricade.prefab
+- Assets/Project Dumfoozle/Other/Bundles/Bitcoins/Tower_Low/Nav.prefab
+- Assets/Project Dumfoozle/Other/Bundles/Bitcoins/Tower_Mid/Use.mp3
+- Assets/Project Dumfoozle/Other/Bundles/Bitcoins/Tower_Mid/Animations.prefab
+- Assets/Project Dumfoozle/Other/Bundles/Bitcoins/Tower_High/Clip.prefab
+- Assets/Project Dumfoozle/Other/Bundles/Bitcoins/Tower_Mid/Item.prefab
+- Assets/Project Dumfoozle/Other/Bundles/Bitcoins/Tower_High/Item.prefab
+- Assets/Project Dumfoozle/Other/Bundles/Bitcoins/Tower_High/Nav.prefab
+- Assets/Project Dumfoozle/Other/Bundles/Bitcoins/CPU/Item.prefab
+- Assets/Project Dumfoozle/Other/Bundles/Bitcoins/Tower_Mid/Nav.prefab
+- Assets/Project Dumfoozle/Other/Bundles/Bitcoins/System/Item.prefab
+- Assets/Project Dumfoozle/Other/Bundles/Bitcoins/GPU/Item.prefab
+- Assets/Project Dumfoozle/Other/Bundles/Bitcoins/Tower_Low/Use.mp3
+- Assets/Project Dumfoozle/Other/Bundles/Bitcoins/Tower_Low/Animations.prefab
+- Assets/Project Dumfoozle/Other/Bundles/Bitcoins/Tower_Low/Clip.prefab
+- Assets/Project Dumfoozle/Other/Bundles/Bitcoins/Tower_High/Animations.prefab
+Dependencies: []

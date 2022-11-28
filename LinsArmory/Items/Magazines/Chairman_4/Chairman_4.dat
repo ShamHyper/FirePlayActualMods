@@ -1,0 +1,33 @@
+GUID 8d79ae4dab384a03b814709b5302b20b
+Type Magazine
+Rarity Rare
+ID 27114
+
+Size_X 1
+Size_Y 1
+Size_Z 0.125
+
+Amount 4
+Count_Min 1
+Count_Max 4
+
+Calibers 1
+Caliber_0 2704
+
+Pellets 8
+
+Tracer 48
+
+Blueprints 3
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 381
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 27113
+Blueprint_1_Build 30
+Blueprint_2_Type Ammo
+Blueprint_2_Supplies 1
+Blueprint_2_Supply_0_ID 27114
+Blueprint_2_Build 30

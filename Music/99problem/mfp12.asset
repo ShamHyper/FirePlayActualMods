@@ -1,0 +1,17 @@
+"Metadata"
+{
+	"GUID" "2ff19853f19241f3a8a61c17cee9f7f8"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "<color=red>[FP]</color>99 Восточных Проблем"
+	"Song"
+	{
+		"MasterBundle" "mfp12.masterbundle"
+		"AssetPath" "MusicFP12/mfp12.mp3"
+	}
+	
+	"Is_Loop" "true"	
+}

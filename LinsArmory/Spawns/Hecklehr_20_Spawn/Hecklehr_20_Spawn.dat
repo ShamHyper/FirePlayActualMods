@@ -1,0 +1,16 @@
+GUID 31a89ca328964d6e807c27c319fd8da1
+Type Spawn
+ID 27133
+Roots 4
+Root_0_Spawn_ID 784
+Root_0_Weight 10
+Root_1_Spawn_ID 540
+Root_1_Weight 50
+Root_2_Spawn_ID 542
+Root_2_Weight 50
+Root_3_Spawn_ID 615
+Root_3_Weight 50
+
+Tables 1
+Table_0_Asset_ID 27133
+Table_0_Weight 100

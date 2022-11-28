@@ -1,0 +1,14 @@
+GUID f8528313955f432ca9219f06c0c73b93
+Type Water
+Rarity Mythical
+Useable Consumeable
+ID 51590
+
+Size_X 1
+Size_Y 2
+Size_Z 0.44
+
+Water 100
+Energy 50
+
+Exclude_From_Master_Bundle

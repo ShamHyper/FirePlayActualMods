@@ -1,0 +1,17 @@
+GUID df0e87cd64364b4da85f29bdf86a01d7
+
+Type Sight
+Rarity Rare
+ID 60056
+
+Size_X 2
+Size_Y 1
+Size_Z 0.15
+
+Calibers 1
+Caliber_0 60100
+
+Spread 0.7
+Zoom 7
+
+Paintable

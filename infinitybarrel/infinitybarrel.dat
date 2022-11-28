@@ -1,0 +1,29 @@
+GUID a9a00282f3f0498f91396f9544145e7c
+Type Barrel
+Rarity Mythical
+ID 6798
+
+Size_X 2
+Size_Y 1
+Size_Z 0.125
+
+Silenced 
+Volume 0.3
+
+Blueprints 1
+Blueprint_0_Type Gear
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 144
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 149
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 1191
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 7
+Blueprint_0_Supply_3_Amount 1
+Blueprint_0_Level 3
+Blueprint_0_Skill Craft
+Blueprint_0_Build 6798
+
+Master_Bundle_Override core.masterbundle
+Bundle_Override_Path /Items/Barrels/Military_Suppressor

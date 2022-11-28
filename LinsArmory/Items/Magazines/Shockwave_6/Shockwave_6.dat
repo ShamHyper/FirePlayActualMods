@@ -1,0 +1,39 @@
+GUID 86b45b13a47f4ce29b96bc929382c232
+Type Magazine
+Rarity Legendary
+ID 27172
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Amount 6
+Count_Min 2
+Count_Max 5
+
+Calibers 1
+Caliber_0 2722
+
+Tracer 51
+
+Range 5
+Player_Damage 20
+Zombie_Damage 40
+Animal_Damage 20
+Barricade_Damage 20
+Structure_Damage 20
+Vehicle_Damage 50
+Resource_Damage 50
+Object_Damage 50
+Explosion 54
+Explosive
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 1192
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 27172
+Blueprint_1_Build 30

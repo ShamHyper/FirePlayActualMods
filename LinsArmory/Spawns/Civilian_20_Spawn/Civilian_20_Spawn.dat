@@ -1,0 +1,16 @@
+GUID 855fae29867044cbbeff7106cbf40698
+Type Spawn
+ID 27138
+Roots 4
+Root_0_Spawn_ID 242
+Root_0_Weight 4
+Root_1_Spawn_ID 384
+Root_1_Weight 4
+Root_2_Spawn_ID 621
+Root_2_Weight 4
+Root_3_Spawn_ID 758
+Root_3_Weight 4
+
+Tables 1
+Table_0_Asset_ID 27138
+Table_0_Weight 100

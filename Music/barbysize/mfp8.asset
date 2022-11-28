@@ -1,0 +1,17 @@
+"Metadata"
+{
+	"GUID" "2e1d1e2a11b04a57add0dde410f74814"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "<color=red>[FP]</color>Дора, МЭЙБИ БЭЙБИ - Барбисайз"
+	"Song"
+	{
+		"MasterBundle" "mfp8.masterbundle"
+		"AssetPath" "MusicFP8/mfp8.mp3"
+	}
+	
+	"Is_Loop" "true"	
+}

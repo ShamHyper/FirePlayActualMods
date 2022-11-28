@@ -1,0 +1,20 @@
+GUID 3a6a9e665cc94e46b53905bd865f28b2
+Type Supply
+ID 50304
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 50300
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 50301
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Supply_2_ID 50302
+Blueprint_0_Supply_2_Amount 4
+Blueprint_0_Supply_3_ID 50303
+Blueprint_0_Supply_3_Amount 1
+Blueprint_0_Build 27

@@ -1,0 +1,27 @@
+GUID 533ba13478ce49e8ace138bfc4e5e229
+Type Magazine
+Rarity Legendary
+ID 27126
+
+Size_X 1
+Size_Y 1
+Size_Z 0.2
+
+Amount 5
+Count_Min 2
+Count_Max 4
+
+Calibers 1
+Caliber_0 2709
+
+Tracer 51
+
+Blueprints 2
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 1193
+Blueprint_0_Build 30
+Blueprint_1_Type Ammo
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 27126
+Blueprint_1_Build 30

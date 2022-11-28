@@ -1,0 +1,16 @@
+GUID f5599c748b7f4697bad2da9dc3d92512
+Type Spawn
+ID 27122
+Roots 4
+Root_0_Spawn_ID 653
+Root_0_Weight 10
+Root_1_Spawn_ID 540
+Root_1_Weight 50
+Root_2_Spawn_ID 542
+Root_2_Weight 50
+Root_3_Spawn_ID 680
+Root_3_Weight 50
+
+Tables 1
+Table_0_Asset_ID 27122
+Table_0_Weight 100

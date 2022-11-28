@@ -1,0 +1,34 @@
+GUID 71bd9f2858cb49be95eb86e1bdd444b6
+
+Type Hat
+Rarity Rare
+Useable Clothing
+ID 18620
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Beard
+
+Armor 0.7
+
+Blueprints 2
+Blueprint_0_Type Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 18212
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Tool 18218
+Blueprint_0_Tool_Critical
+Blueprint_0_State_Transfer
+Blueprint_0_Level 1
+Blueprint_0_Skill Repair
+Blueprint_0_Build 27
+Blueprint_1_Type Tool
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 18620
+Blueprint_1_Outputs 1
+Blueprint_1_Output_0_ID 18212
+Blueprint_1_Output_0_Amount 3
+
+Exclude_From_Master_Bundle

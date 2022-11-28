@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2796342624
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3d6d01495ecfb1f8610b108d169f32df
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MusicFP18/mfp18.mp3
+Dependencies: []

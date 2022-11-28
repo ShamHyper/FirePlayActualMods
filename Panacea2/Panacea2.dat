@@ -1,0 +1,43 @@
+GUID acb5f38e73114ed0b47204de4cd49a1c
+Type Medical
+Rarity Mythical
+Useable Consumeable
+ID 51666
+
+Size_X 1
+Size_Y 1
+Size_Z 0.57
+
+Aid
+Bleeding
+Broken
+Health 100
+Food 100
+Water 100
+Disinfectant 100
+Energy 100
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 8
+Blueprint_0_Supply_0_ID 269
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Supply_1_ID 388
+Blueprint_0_Supply_1_Amount 3
+Blueprint_0_Supply_2_ID 392
+Blueprint_0_Supply_2_Amount 3
+Blueprint_0_Supply_3_ID 389
+Blueprint_0_Supply_3_Amount 3
+Blueprint_0_Supply_4_ID 15
+Blueprint_0_Supply_4_Amount 3
+Blueprint_0_Supply_5_ID 398
+Blueprint_0_Supply_5_Amount 3
+Blueprint_0_Supply_6_ID 75
+Blueprint_0_Supply_6_Amount 3
+Blueprint_0_Supply_7_ID 81
+Blueprint_0_Supply_7_Amount 3
+Blueprint_0_Level 3
+Blueprint_0_Skill Cook
+Blueprint_0_Build 32
+
+Exclude_From_Master_Bundle

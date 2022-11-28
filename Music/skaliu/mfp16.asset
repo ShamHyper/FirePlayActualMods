@@ -1,0 +1,17 @@
+"Metadata"
+{
+	"GUID" "49524ebed1e24ae184a6db2e6ab878c1"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "<color=red>[FP]</color>Король и Шут - Прыгну со скалы"
+	"Song"
+	{
+		"MasterBundle" "mfp16.masterbundle"
+		"AssetPath" "MusicFP16/mfp16.mp3"
+	}
+	
+	"Is_Loop" "true"	
+}

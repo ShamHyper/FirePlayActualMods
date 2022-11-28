@@ -1,0 +1,17 @@
+"Metadata"
+{
+	"GUID" "271608d4ea6d4bea85d5ddd920b7080a"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "<color=red>[FP]</color>Убили н*гра"
+	"Song"
+	{
+		"MasterBundle" "mfp6.masterbundle"
+		"AssetPath" "MusicFP6/mfp6.mp3"
+	}
+	
+	"Is_Loop" "true"	
+}

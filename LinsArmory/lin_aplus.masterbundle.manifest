@@ -1,0 +1,436 @@
+ManifestFileVersion: 0
+CRC: 4226332132
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8f71d5fd2aa3f5241228876e640a1090
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d708a662a9ffe37aaa9c07effeb1286f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 84
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 205
+  Script: {instanceID: 0}
+Assets:
+- Assets/Lin_Aplus/Items/Guns/Glazkov/Item.prefab
+- Assets/Lin_Aplus/Items/Sights/CQBW_Iron_Sights/Sight.prefab
+- Assets/Lin_Aplus/Items/Guns/CQBW/Hammer.mp3
+- Assets/Lin_Aplus/Items/Sights/Incisor_Iron_Sights/Sight.prefab
+- Assets/Lin_Aplus/Items/Magazines/Launcher_Military_1/Magazine.prefab
+- Assets/Lin_Aplus/Items/Sights/Simonov_Iron_Sights/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Chairman/Animations.prefab
+- Assets/Lin_Aplus/Items/Guns/Garand/Hammer.mp3
+- Assets/Lin_Aplus/Items/Magazines/Blackpowder_6/Magazine.prefab
+- Assets/Lin_Aplus/Items/Guns/OP-Simonov/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/BAR/Reload.mp3
+- Assets/Lin_Aplus/Items/Sights/Shockwave_Iron_Sights/Sight.prefab
+- Assets/Lin_Aplus/Items/Guns/Pancorhammer/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Rhino/Animations.prefab
+- Assets/Lin_Aplus/Items/Sights/Launcher_Ranger_Iron_Sights/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Winchester/Hammer.mp3
+- Assets/Lin_Aplus/Items/Guns/Bonecrusher/Reload.mp3
+- Assets/Lin_Aplus/Items/Magazines/Vychlop_5/Magazine.prefab
+- Assets/Lin_Aplus/Items/Guns/SP-Nykorev/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Rhino/Shoot.mp3
+- Assets/Lin_Aplus/Items/Guns/Stechkin/Reload.mp3
+- Assets/Lin_Aplus/Items/Guns/Launcher_Military/Projectile.prefab
+- Assets/Lin_Aplus/Items/Magazines/Maxim_150/Item.prefab
+- Assets/Lin_Aplus/Items/Sights/Launcher_Military_Iron_Sights/Item.prefab
+- Assets/Lin_Aplus/Items/Sights/Duskinvader_Iron_Sights/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Garand/Shoot.mp3
+- Assets/Lin_Aplus/Items/Guns/Groza/Animations.prefab
+- Assets/Lin_Aplus/Items/Guns/Rattlesnake/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Bonecrusher/Animations.prefab
+- Assets/Lin_Aplus/Items/Guns/Chairman/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Duskinvader/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Vintovskya/Item.prefab
+- Assets/Lin_Aplus/Items/Magazines/Shockwave_6/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Eaglestrike/Shoot.mp3
+- Assets/Lin_Aplus/Items/Guns/Avtorez/Hammer.mp3
+- Assets/Lin_Aplus/Items/Sights/LAR_Iron_Sights/Item.prefab
+- Assets/Lin_Aplus/Items/Magazines/Chinalake_4/Magazine.prefab
+- Assets/Lin_Aplus/Items/Guns/Maxim/Hammer.mp3
+- Assets/Lin_Aplus/Items/Magazines/Simonov_10/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Mastodon/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Highpower/Animations.prefab
+- Assets/Lin_Aplus/Items/Guns/Thumper/Projectile.prefab
+- Assets/Lin_Aplus/Items/Sights/BAR_Iron_Sights/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Incisor/Shoot.mp3
+- Assets/Lin_Aplus/Items/Guns/Mastodon/Animations.prefab
+- Assets/Lin_Aplus/Items/Magazines/Chairman_4/Magazine.prefab
+- Assets/Lin_Aplus/Items/Guns/Simonov/Shoot.mp3
+- Assets/Lin_Aplus/Items/Magazines/Ripper_12/Item.prefab
+- Assets/Lin_Aplus/Items/Sights/Royalguard_Iron_Sights/Sight.prefab
+- Assets/Lin_Aplus/Items/Sights/Launcher_Grenade_Iron_Sights/Sight.prefab
+- Assets/Lin_Aplus/Items/Sights/Royalguard_Iron_Sights/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Rattlesnake/Animations.prefab
+- Assets/Lin_Aplus/Items/Grips/Grip_Pod/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Kalashnikov/Hammer.mp3
+- Assets/Lin_Aplus/Items/Magazines/LAR_50/Magazine.prefab
+- Assets/Lin_Aplus/Items/Guns/Stechkin/Hammer.mp3
+- Assets/Lin_Aplus/Items/Guns/Simonov/Animations.prefab
+- Assets/Lin_Aplus/Items/Barrels/Vychlop_Barrel/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Simonov/Hammer.mp3
+- Assets/Lin_Aplus/Items/Guns/Shockwave/Reload.mp3
+- Assets/Lin_Aplus/Items/Guns/Groza/Reload.mp3
+- Assets/Lin_Aplus/Items/Magazines/Hecklehr_20/Magazine.prefab
+- Assets/Lin_Aplus/Items/Sights/Mercenary_Iron_Sights/Sight.prefab
+- Assets/Lin_Aplus/Items/Guns/Chinalake/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/SP-Nykorev/Reload.mp3
+- Assets/Lin_Aplus/Items/Guns/Navy/Reload.mp3
+- Assets/Lin_Aplus/Items/Magazines/Alfashnikov_30/Item.prefab
+- Assets/Lin_Aplus/Items/Grips/Wooden_Grip/Item.prefab
+- Assets/Lin_Aplus/Items/Sights/Glazkov_Iron_Sights/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Gianthunter/Animations.prefab
+- Assets/Lin_Aplus/Items/Guns/Pulemyot/Shoot.mp3
+- Assets/Lin_Aplus/Items/Guns/Incisor/Animations.prefab
+- Assets/Lin_Aplus/Items/Magazines/Chairman_2/Magazine.prefab
+- Assets/Lin_Aplus/Items/Guns/Bonecrusher/Hammer.mp3
+- Assets/Lin_Aplus/Items/Magazines/Incisor_8/Magazine.prefab
+- Assets/Lin_Aplus/Items/Guns/Pancorhammer/Animations.prefab
+- Assets/Lin_Aplus/Items/Magazines/Highpower_12/Magazine.prefab
+- Assets/Lin_Aplus/Items/Sights/Pancorhammer_Iron_Sights/Item.prefab
+- Assets/Lin_Aplus/Items/Magazines/Thompson_50/Item.prefab
+- Assets/Lin_Aplus/Items/Magazines/Mastodon_20/Magazine.prefab
+- Assets/Lin_Aplus/Items/Barrels/Military_Compensator/Item.prefab
+- Assets/Lin_Aplus/Items/Magazines/Avtorez_30/Magazine.prefab
+- Assets/Lin_Aplus/Items/Guns/Mastodon/Hammer.mp3
+- Assets/Lin_Aplus/Items/Magazines/Highpower_12/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Vintovskya/Reload.mp3
+- Assets/Lin_Aplus/Items/Sights/Ripper_Iron_Sights/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Duskinvader/Shoot.mp3
+- Assets/Lin_Aplus/Items/Magazines/Flechettes_8/Magazine.prefab
+- Assets/Lin_Aplus/Items/Guns/Shockwave/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Thompson/Animations.prefab
+- Assets/Lin_Aplus/Items/Guns/Duskinvader/Hammer.mp3
+- Assets/Lin_Aplus/Items/Guns/Incisor/Reload.mp3
+- Assets/Lin_Aplus/Items/Sights/Duskinvader_Iron_Sights/Sight.prefab
+- Assets/Lin_Aplus/Items/Guns/Stechkin/Animations.prefab
+- Assets/Lin_Aplus/Items/Barrels/Ranger_Compensator/Item.prefab
+- Assets/Lin_Aplus/Items/Sights/Red_OKP_Sight/Metallic_Base.png
+- Assets/Lin_Aplus/Items/Sights/Mercenary_Iron_Sights/Item.prefab
+- Assets/Lin_Aplus/Items/Barrels/Rattlesnake_Barrel/Barrel.prefab
+- Assets/Lin_Aplus/Items/Guns/Vychlop/Animations.prefab
+- Assets/Lin_Aplus/Items/Guns/Navy/Shoot.mp3
+- Assets/Lin_Aplus/Items/Sights/Insurgent_Iron_Sights/Sight.prefab
+- Assets/Lin_Aplus/Items/Guns/Navy/Hammer.mp3
+- Assets/Lin_Aplus/Items/Magazines/Chairman_2/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Garand/Animations.prefab
+- Assets/Lin_Aplus/Items/Magazines/Ripper_12/Magazine.prefab
+- Assets/Lin_Aplus/Items/Magazines/Stechkin_20/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Ripper/Animations.prefab
+- Assets/Lin_Aplus/Items/Barrels/Vychlop_Barrel/Shoot.mp3
+- Assets/Lin_Aplus/Items/Sights/Eaglestrike_Iron_Sights/Sight.prefab
+- Assets/Lin_Aplus/Items/Guns/SP-Nykorev/Animations.prefab
+- Assets/Lin_Aplus/Items/Magazines/Rhino_6/Magazine.prefab
+- Assets/Lin_Aplus/Items/Guns/Royalguard/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Shockwave/Hammer.mp3
+- Assets/Lin_Aplus/Items/Guns/Launcher_Ranger/Reload.mp3
+- Assets/Lin_Aplus/Items/Guns/Incisor/Hammer.mp3
+- Assets/Lin_Aplus/Items/Magazines/Mastodon_20/Item.prefab
+- Assets/Lin_Aplus/Items/Sights/Markshooter_Scope/Metallic_Base.png
+- Assets/Lin_Aplus/Items/Guns/Chinalake/Hammer.mp3
+- Assets/Lin_Aplus/Items/Guns/Winchester/Shoot.mp3
+- Assets/Lin_Aplus/Items/Guns/Spetsnakov/Animations.prefab
+- Assets/Lin_Aplus/Items/Guns/Thompson/Shoot.mp3
+- Assets/Lin_Aplus/Items/Sights/Alfashnikov_Iron_Sights/Item.prefab
+- Assets/Lin_Aplus/Items/Sights/Markshooter_Scope/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Pulemyot/Hammer.mp3
+- Assets/Lin_Aplus/Items/Magazines/Garand_8/Magazine.prefab
+- Assets/Lin_Aplus/Items/Magazines/Bulldog_75/Magazine.prefab
+- Assets/Lin_Aplus/Items/Guns/Launcher_Military/Item.prefab
+- Assets/Lin_Aplus/Items/Magazines/Ranger_Explosive_25/Magazine.prefab
+- Assets/Lin_Aplus/Items/Guns/Pancorhammer/Hammer.mp3
+- Assets/Lin_Aplus/Items/Barrels/Avtorez_Barrel/Barrel.prefab
+- Assets/Lin_Aplus/Items/Magazines/Launcher_Military_1/Item.prefab
+- Assets/Lin_Aplus/Items/Magazines/Gianthunter_5/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Bonecrusher/Item.prefab
+- Assets/Lin_Aplus/Items/Magazines/Stechkin_20/Magazine.prefab
+- Assets/Lin_Aplus/Items/Guns/LAR/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Thumper/Reload.mp3
+- Assets/Lin_Aplus/Items/Guns/Hecklehr/Reload.mp3
+- Assets/Lin_Aplus/Items/Magazines/Alfashnikov_60/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Launcher_Ranger/Animations.prefab
+- Assets/Lin_Aplus/Items/Magazines/Insurgent_90/Magazine.prefab
+- Assets/Lin_Aplus/Items/Sights/Thompson_Iron_Sights/Sight.prefab
+- Assets/Lin_Aplus/Items/Guns/Chairman/Shoot.mp3
+- Assets/Lin_Aplus/Items/Guns/Hecklehr/Shoot.mp3
+- Assets/Lin_Aplus/Items/Guns/Glazkov/Animations.prefab
+- Assets/Lin_Aplus/Items/Magazines/Maxim_150/Magazine.prefab
+- Assets/Lin_Aplus/Items/Sights/Shockwave_Iron_Sights/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Groza/Shoot.mp3
+- Assets/Lin_Aplus/Items/Guns/Royalguard/Hammer.mp3
+- Assets/Lin_Aplus/Items/Magazines/Gianthunter_5/Magazine.prefab
+- Assets/Lin_Aplus/Items/Sights/Pancorhammer_Iron_Sights/Sight.prefab
+- Assets/Lin_Aplus/Items/Guns/SP-Nykorev/Shoot.mp3
+- Assets/Lin_Aplus/Items/Guns/Stechkin/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Pancorhammer/Reload.mp3
+- Assets/Lin_Aplus/Items/Guns/Eaglestrike/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/BAR/Hammer.mp3
+- Assets/Lin_Aplus/Items/Guns/Chinalake/Shoot.mp3
+- Assets/Lin_Aplus/Items/Magazines/Insurgent_35/Item.prefab
+- Assets/Lin_Aplus/Items/Sights/Garand_Iron_Sights/Item.prefab
+- Assets/Lin_Aplus/Items/Barrels/Avtorez_Barrel/Shoot.mp3
+- Assets/Lin_Aplus/Items/Guns/Gianthunter/Hammer.mp3
+- Assets/Lin_Aplus/Items/Magazines/Duskinvader_10/Magazine.prefab
+- Assets/Lin_Aplus/Items/Grips/Wooden_Grip/Grip.prefab
+- Assets/Lin_Aplus/Items/Guns/Navy/Animations.prefab
+- Assets/Lin_Aplus/Items/Guns/Insurgent/Shoot.mp3
+- Assets/Lin_Aplus/Items/Guns/LAR/Hammer.mp3
+- Assets/Lin_Aplus/Items/Guns/LAR/Animations.prefab
+- Assets/Lin_Aplus/Items/Sights/Mastodon_Iron_Sights/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Glazkov/Hammer.mp3
+- Assets/Lin_Aplus/Items/Barrels/Ranger_Compensator/Barrel.prefab
+- Assets/Lin_Aplus/Items/Guns/Vintovskya/Shoot.mp3
+- Assets/Lin_Aplus/Items/Sights/Vychlop_Iron_Sights/Sight.prefab
+- Assets/Lin_Aplus/Items/Barrels/Shockwave_Barrel/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Thompson/Item.prefab
+- Assets/Lin_Aplus/Items/Magazines/Blackpowder_6/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Alfashnikov/Shoot.mp3
+- Assets/Lin_Aplus/Items/Barrels/Groza_Compensator/Barrel.prefab
+- Assets/Lin_Aplus/Items/Guns/Highpower/Hammer.mp3
+- Assets/Lin_Aplus/Items/Guns/Glazkov/Reload.mp3
+- Assets/Lin_Aplus/Items/Magazines/Alfashnikov_30/Magazine.prefab
+- Assets/Lin_Aplus/Items/Guns/Highpower/Shoot.mp3
+- Assets/Lin_Aplus/Items/Barrels/Rattlesnake_Barrel/Item.prefab
+- Assets/Lin_Aplus/Items/Barrels/Shockwave_Barrel/Shoot.mp3
+- Assets/Lin_Aplus/Items/Guns/Chairman/Hammer.mp3
+- Assets/Lin_Aplus/Items/Guns/Mastodon/Reload.mp3
+- Assets/Lin_Aplus/Items/Sights/Ripper_Iron_Sights/Sight.prefab
+- Assets/Lin_Aplus/Items/Magazines/Snayperskya_12/Item.prefab
+- Assets/Lin_Aplus/Items/Sights/Groza_Iron_Sights/Sight.prefab
+- Assets/Lin_Aplus/Items/Magazines/Alfashnikov_60/Magazine.prefab
+- Assets/Lin_Aplus/Items/Guns/Royalguard/Reload.mp3
+- Assets/Lin_Aplus/Items/Guns/Hecklehr/Hammer.mp3
+- Assets/Lin_Aplus/Items/Magazines/Launcher_Ranger_1/Magazine.prefab
+- Assets/Lin_Aplus/Items/Sights/Alfashnikov_Iron_Sights/Sight.prefab
+- Assets/Lin_Aplus/Items/Sights/Garand_Iron_Sights/Sight.prefab
+- Assets/Lin_Aplus/Items/Guns/Garand/Reload.mp3
+- Assets/Lin_Aplus/Items/Sights/LAR_Iron_Sights/Sight.prefab
+- Assets/Lin_Aplus/Items/Guns/Chinalake/Reload.mp3
+- Assets/Lin_Aplus/Items/Sights/Launcher_Military_Iron_Sights/Sight.prefab
+- Assets/Lin_Aplus/Items/Guns/Vintovskya/Hammer.mp3
+- Assets/Lin_Aplus/Items/Guns/Insurgent/Hammer.mp3
+- Assets/Lin_Aplus/Items/Guns/Duskinvader/Animations.prefab
+- Assets/Lin_Aplus/Items/Guns/CQBW/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Mastodon/Shoot.mp3
+- Assets/Lin_Aplus/Items/Guns/Glazkov/Shoot.mp3
+- Assets/Lin_Aplus/Items/Guns/Ripper/Item.prefab
+- Assets/Lin_Aplus/Items/Sights/CQBW_Iron_Sights/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Mercenary/Animations.prefab
+- Assets/Lin_Aplus/Items/Guns/Eaglestrike/Reload.mp3
+- Assets/Lin_Aplus/Items/Magazines/Glazkov_7/Magazine.prefab
+- Assets/Lin_Aplus/Items/Barrels/Rattlesnake_Barrel/Shoot.mp3
+- Assets/Lin_Aplus/Items/Sights/Launcher_Ranger_Iron_Sights/Sight.prefab
+- Assets/Lin_Aplus/Items/Magazines/Slugs_8/Magazine.prefab
+- Assets/Lin_Aplus/Items/Guns/Rattlesnake/Hammer.mp3
+- Assets/Lin_Aplus/Items/Sights/Mastodon_Iron_Sights/Sight.prefab
+- Assets/Lin_Aplus/Items/Guns/Avtorez/Reload.mp3
+- Assets/Lin_Aplus/Items/Magazines/Mercenary_25/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Groza/Hammer.mp3
+- Assets/Lin_Aplus/Items/Guns/Eaglestrike/Hammer.mp3
+- Assets/Lin_Aplus/Items/Magazines/Thompson_25/Item.prefab
+- Assets/Lin_Aplus/Items/Supplies/Civilian_20/Item.prefab
+- Assets/Lin_Aplus/Items/Magazines/Duskinvader_10/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/LAR/Reload.mp3
+- Assets/Lin_Aplus/Items/Guns/Avtorez/Animations.prefab
+- Assets/Lin_Aplus/Items/Guns/Kalashnikov/Reload.mp3
+- Assets/Lin_Aplus/Items/Grips/Combat_Grip/Grip.prefab
+- Assets/Lin_Aplus/Items/Guns/Spetsnakov/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/SP-Nykorev/Hammer.mp3
+- Assets/Lin_Aplus/Items/Magazines/Chairman_4/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Chairman/Reload.mp3
+- Assets/Lin_Aplus/Items/Magazines/Ranger_Tracer_25/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Ripper/Shoot.mp3
+- Assets/Lin_Aplus/Items/Guns/Alfashnikov/Animations.prefab
+- Assets/Lin_Aplus/Items/Guns/Hecklehr/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Gianthunter/Shoot.mp3
+- Assets/Lin_Aplus/Items/Guns/CQBW/Shoot.mp3
+- Assets/Lin_Aplus/Items/Guns/Gianthunter/Item.prefab
+- Assets/Lin_Aplus/Items/Barrels/Vychlop_Barrel/Barrel.prefab
+- Assets/Lin_Aplus/Items/Magazines/Winchester_8/Magazine.prefab
+- Assets/Lin_Aplus/Items/Guns/OP-Simonov/Animations.prefab
+- Assets/Lin_Aplus/Items/Sights/Incisor_Iron_Sights/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Vintovskya/Animations.prefab
+- Assets/Lin_Aplus/Items/Guns/Kalashnikov/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Winchester/Reload.mp3
+- Assets/Lin_Aplus/Items/Magazines/Bulldog_75/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Maxim/Reload.mp3
+- Assets/Lin_Aplus/Items/Magazines/LAR_20/Item.prefab
+- Assets/Lin_Aplus/Items/Sights/Spetsnakov_Iron_Sights/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/OP-Simonov/Shoot.mp3
+- Assets/Lin_Aplus/Items/Sights/Launcher_Grenade_Iron_Sights/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Navy/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Launcher_Military/Shoot.mp3
+- Assets/Lin_Aplus/Items/Guns/Simonov/Item.prefab
+- Assets/Lin_Aplus/Items/Magazines/Viper_100/Magazine.prefab
+- Assets/Lin_Aplus/Items/Guns/Highpower/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Mercenary/Hammer.mp3
+- Assets/Lin_Aplus/Items/Magazines/Thompson_50/Magazine.prefab
+- Assets/Lin_Aplus/Items/Sights/Markshooter_Scope/Sight.prefab
+- Assets/Lin_Aplus/Items/Magazines/Snayperskya_12/Magazine.prefab
+- Assets/Lin_Aplus/Items/Guns/CQBW/Animations.prefab
+- Assets/Lin_Aplus/Items/Magazines/Insurgent_90/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Maxim/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Rattlesnake/Reload.mp3
+- Assets/Lin_Aplus/Items/Sights/Groza_Iron_Sights/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/CQBW/Reload.mp3
+- Assets/Lin_Aplus/Items/Guns/BAR/Item.prefab
+- Assets/Lin_Aplus/Items/Magazines/Avtorez_30/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Thumper/Shoot.mp3
+- Assets/Lin_Aplus/Items/Guns/Highpower/Reload.mp3
+- Assets/Lin_Aplus/Items/Magazines/Sabertooth_15/Item.prefab
+- Assets/Lin_Aplus/Items/Magazines/Rhino_6/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Thumper/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Alfashnikov/Reload.mp3
+- Assets/Lin_Aplus/Items/Guns/Bonecrusher/Shoot.mp3
+- Assets/Lin_Aplus/Items/Guns/BAR/Animations.prefab
+- Assets/Lin_Aplus/Items/Guns/Ripper/Reload.mp3
+- Assets/Lin_Aplus/Items/Magazines/Mercenary_25/Magazine.prefab
+- Assets/Lin_Aplus/Items/Guns/OP-Simonov/Reload.mp3
+- Assets/Lin_Aplus/Items/Guns/Pulemyot/Item.prefab
+- Assets/Lin_Aplus/Items/Sights/Red_OKP_Sight/Sight.prefab
+- Assets/Lin_Aplus/Items/Magazines/Shockwave_6/Magazine.prefab
+- Assets/Lin_Aplus/Items/Guns/Mercenary/Shoot.mp3
+- Assets/Lin_Aplus/Items/Guns/Stechkin/Shoot.mp3
+- Assets/Lin_Aplus/Items/Grips/Grip_Pod/Grip.prefab
+- Assets/Lin_Aplus/Items/Magazines/BAR_20/Item.prefab
+- Assets/Lin_Aplus/Items/Magazines/Launcher_Ranger_1/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Maxim/Shoot.mp3
+- Assets/Lin_Aplus/Items/Magazines/Simonov_10/Magazine.prefab
+- Assets/Lin_Aplus/Items/Guns/Launcher_Ranger/Projectile.prefab
+- Assets/Lin_Aplus/Items/Supplies/Upgrade_Kit/Item.prefab
+- Assets/Lin_Aplus/Items/Magazines/Garand_8/Item.prefab
+- Assets/Lin_Aplus/Items/Magazines/Slugs_8/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Insurgent/Item.prefab
+- Assets/Lin_Aplus/Items/Magazines/Incisor_8/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/BAR/Shoot.mp3
+- Assets/Lin_Aplus/Items/Guns/Maxim/Animations.prefab
+- Assets/Lin_Aplus/Items/Guns/Pulemyot/Animations.prefab
+- Assets/Lin_Aplus/Items/Magazines/Winchester_8/Item.prefab
+- Assets/Lin_Aplus/Items/Magazines/Flechettes_8/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Launcher_Military/Reload.mp3
+- Assets/Lin_Aplus/Items/Guns/Rhino/Reload.mp3
+- Assets/Lin_Aplus/Items/Guns/LAR/Shoot.mp3
+- Assets/Lin_Aplus/Items/Guns/Hecklehr/Animations.prefab
+- Assets/Lin_Aplus/Items/Magazines/LAR_20/Magazine.prefab
+- Assets/Lin_Aplus/Items/Magazines/Bane_Explosive_14/Item.prefab
+- Assets/Lin_Aplus/Items/Sights/Thompson_Iron_Sights/Item.prefab
+- Assets/Lin_Aplus/Items/Sights/Vychlop_Iron_Sights/Item.prefab
+- Assets/Lin_Aplus/Items/Magazines/Ranger_Tracer_25/Magazine.prefab
+- Assets/Lin_Aplus/Items/Sights/Eaglestrike_Iron_Sights/Item.prefab
+- Assets/Lin_Aplus/Items/Sights/Red_OKP_Sight/Albedo_Base.png
+- Assets/Lin_Aplus/Items/Guns/Incisor/Item.prefab
+- Assets/Lin_Aplus/Items/Magazines/Bonecrusher_20/Magazine.prefab
+- Assets/Lin_Aplus/Items/Guns/Vychlop/Reload.mp3
+- Assets/Lin_Aplus/Items/Guns/Groza/Item.prefab
+- Assets/Lin_Aplus/Items/Magazines/OP-Simonov_20/Item.prefab
+- Assets/Lin_Aplus/Items/Magazines/BAR_20/Magazine.prefab
+- Assets/Lin_Aplus/Items/Guns/Mercenary/Reload.mp3
+- Assets/Lin_Aplus/Items/Guns/Duskinvader/Reload.mp3
+- Assets/Lin_Aplus/Items/Magazines/Chinalake_4/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Thompson/Hammer.mp3
+- Assets/Lin_Aplus/Items/Grips/Combat_Grip/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Launcher_Military/Animations.prefab
+- Assets/Lin_Aplus/Items/Sights/Hecklehr_Iron_Sights/Item.prefab
+- Assets/Lin_Aplus/Items/Magazines/Insurgent_35/Magazine.prefab
+- Assets/Lin_Aplus/Items/Guns/Shockwave/Animations.prefab
+- Assets/Lin_Aplus/Items/Magazines/LAR_30/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Insurgent/Reload.mp3
+- Assets/Lin_Aplus/Items/Sights/Red_OKP_Sight/Item.prefab
+- Assets/Lin_Aplus/Items/Magazines/Vychlop_5/Item.prefab
+- Assets/Lin_Aplus/Items/Magazines/Glazkov_7/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Spetsnakov/Hammer.mp3
+- Assets/Lin_Aplus/Items/Guns/Insurgent/Animations.prefab
+- Assets/Lin_Aplus/Items/Guns/Garand/Item.prefab
+- Assets/Lin_Aplus/Items/Magazines/Pulemyot_100/Magazine.prefab
+- Assets/Lin_Aplus/Items/Sights/Markshooter_Scope/Albedo_Base.png
+- Assets/Lin_Aplus/Items/Guns/Eaglestrike/Animations.prefab
+- Assets/Lin_Aplus/Items/Magazines/LAR_50/Item.prefab
+- Assets/Lin_Aplus/Items/Sights/BAR_Iron_Sights/Sight.prefab
+- Assets/Lin_Aplus/Items/Guns/Thompson/Reload.mp3
+- Assets/Lin_Aplus/Items/Guns/Chinalake/Animations.prefab
+- Assets/Lin_Aplus/Items/Sights/Vintovskya_Iron_Sights/Item.prefab
+- Assets/Lin_Aplus/Items/Sights/Spetsnakov_Iron_Sights/Sight.prefab
+- Assets/Lin_Aplus/Items/Barrels/Groza_Compensator/Item.prefab
+- Assets/Lin_Aplus/Items/Sights/Simonov_Iron_Sights/Sight.prefab
+- Assets/Lin_Aplus/Items/Guns/Avtorez/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/OP-Simonov/Hammer.mp3
+- Assets/Lin_Aplus/Items/Barrels/Avtorez_Barrel/Item.prefab
+- Assets/Lin_Aplus/Items/Sights/Glazkov_Iron_Sights/Sight.prefab
+- Assets/Lin_Aplus/Items/Guns/Chinalake/Projectile.prefab
+- Assets/Lin_Aplus/Items/Magazines/OP-Simonov_20/Magazine.prefab
+- Assets/Lin_Aplus/Items/Guns/Gianthunter/Reload.mp3
+- Assets/Lin_Aplus/Items/Magazines/Thompson_25/Magazine.prefab
+- Assets/Lin_Aplus/Items/Magazines/Viper_40/Magazine.prefab
+- Assets/Lin_Aplus/Items/Magazines/LAR_30/Magazine.prefab
+- Assets/Lin_Aplus/Items/Guns/Pancorhammer/Shoot.mp3
+- Assets/Lin_Aplus/Items/Magazines/Bane_Explosive_14/Magazine.prefab
+- Assets/Lin_Aplus/Items/Magazines/Ranger_Explosive_25/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Vychlop/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Alfashnikov/Hammer.mp3
+- Assets/Lin_Aplus/Items/Guns/Simonov/Reload.mp3
+- Assets/Lin_Aplus/Items/Guns/Winchester/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Ripper/Hammer.mp3
+- Assets/Lin_Aplus/Items/Guns/Kalashnikov/Animations.prefab
+- Assets/Lin_Aplus/Items/Guns/Mercenary/Item.prefab
+- Assets/Lin_Aplus/Items/Magazines/Viper_100/Item.prefab
+- Assets/Lin_Aplus/Items/Sights/Vintovskya_Iron_Sights/Sight.prefab
+- Assets/Lin_Aplus/Items/Guns/Royalguard/Shoot.mp3
+- Assets/Lin_Aplus/Items/Guns/Rhino/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Winchester/Animations.prefab
+- Assets/Lin_Aplus/Items/Guns/Pulemyot/Reload.mp3
+- Assets/Lin_Aplus/Items/Barrels/Shockwave_Barrel/Barrel.prefab
+- Assets/Lin_Aplus/Items/Guns/Rhino/Hammer.mp3
+- Assets/Lin_Aplus/Items/Guns/Royalguard/Animations.prefab
+- Assets/Lin_Aplus/Items/Magazines/Viper_40/Item.prefab
+- Assets/Lin_Aplus/Items/Magazines/Bonecrusher_20/Item.prefab
+- Assets/Lin_Aplus/Items/Guns/Launcher_Ranger/Item.prefab
+- Assets/Lin_Aplus/Items/Magazines/Hecklehr_20/Item.prefab
+- Assets/Lin_Aplus/Items/Sights/Insurgent_Iron_Sights/Item.prefab
+- Assets/Lin_Aplus/Items/Magazines/Sabertooth_15/Magazine.prefab
+- Assets/Lin_Aplus/Items/Guns/Launcher_Ranger/Shoot.mp3
+- Assets/Lin_Aplus/Items/Guns/Thumper/Animations.prefab
+- Assets/Lin_Aplus/Items/Guns/Spetsnakov/Shoot.mp3
+- Assets/Lin_Aplus/Items/Guns/Spetsnakov/Reload.mp3
+- Assets/Lin_Aplus/Items/Guns/Kalashnikov/Shoot.mp3
+- Assets/Lin_Aplus/Items/Magazines/Pulemyot_100/Item.prefab
+- Assets/Lin_Aplus/Items/Barrels/Military_Compensator/Barrel.prefab
+- Assets/Lin_Aplus/Items/Guns/Alfashnikov/Item.prefab
+- Assets/Lin_Aplus/Items/Sights/Hecklehr_Iron_Sights/Sight.prefab
+- Assets/Lin_Aplus/Items/Guns/Vychlop/Hammer.mp3
+Dependencies: []

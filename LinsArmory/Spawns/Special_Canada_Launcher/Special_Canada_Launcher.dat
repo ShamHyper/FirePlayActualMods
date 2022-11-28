@@ -1,0 +1,10 @@
+GUID 6bcbc6c92afd44fdb979922c6d4f534c
+Type Spawn
+ID 27215
+Roots 1
+Root_0_Spawn_ID 133
+Root_0_Weight 20
+
+Tables 1
+Table_0_Asset_ID 27215
+Table_0_Weight 10

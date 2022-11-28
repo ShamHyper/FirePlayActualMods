@@ -1,0 +1,17 @@
+"Metadata"
+{
+	"GUID" "03028893712a42238742bc62b23beec1"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "<color=red>[FP]</color>Король и Шут - Дурак и молния"
+	"Song"
+	{
+		"MasterBundle" "mfp17.masterbundle"
+		"AssetPath" "MusicFP17/mfp17.mp3"
+	}
+	
+	"Is_Loop" "true"	
+}

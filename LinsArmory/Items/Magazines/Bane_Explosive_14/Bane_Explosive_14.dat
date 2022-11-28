@@ -1,0 +1,39 @@
+GUID 3595f3e22a244cddb6a28f4f6bf17802
+Type Magazine
+Rarity Legendary
+ID 27205
+
+Size_X 2
+Size_Y 2
+Size_Z 0.175
+
+Amount 14
+Count_Min 4
+Count_Max 12
+
+Calibers 1
+Caliber_0 42
+
+Ballistic_Damage_Multiplier 2
+
+Tracer 55
+
+Range 5
+Player_Damage 50
+Zombie_Damage 100
+Animal_Damage 50
+Barricade_Damage 25
+Structure_Damage 25
+Vehicle_Damage 50
+Resource_Damage 250
+Object_Damage 50
+Explosion 54
+Explosive
+
+Blueprints 1
+Blueprint_0_Type Ammo
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 27205
+Blueprint_0_Build 30
+
+Delete_Empty

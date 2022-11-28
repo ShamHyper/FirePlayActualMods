@@ -1,0 +1,10 @@
+GUID 1227cb7a32c14b4eb0b65237ee007567
+Type Spawn
+ID 27193
+Roots 1
+Root_0_Spawn_ID 374
+Root_0_Weight 4
+
+Tables 1
+Table_0_Asset_ID 27193
+Table_0_Weight 100

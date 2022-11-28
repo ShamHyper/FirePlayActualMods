@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1673941907
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f1d58a2cc63ca4b001594921251ec7eb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/MusicFP8/mfp8.mp3
+Dependencies: []

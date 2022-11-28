@@ -1,0 +1,14 @@
+GUID d36bf744573642ef952e244128a9dabd
+Type Spawn
+ID 27191
+Roots 3
+Root_0_Spawn_ID 763
+Root_0_Weight 15
+Root_1_Spawn_ID 627
+Root_1_Weight 3
+Root_2_Spawn_ID 374
+Root_2_Weight 3
+
+Tables 1
+Table_0_Asset_ID 27191
+Table_0_Weight 100

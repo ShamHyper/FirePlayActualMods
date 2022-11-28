@@ -1,0 +1,17 @@
+"Metadata"
+{
+	"GUID" "f9b82ab0ed1841fab46c2fcf2565f4b5"
+	"Type" "SDG.Unturned.StereoSongAsset, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
+}
+"Asset"
+{
+	"ID" "0"
+	"Title" "<color=red>[FP]</color>M|O|O|N - Crystals"
+	"Song"
+	{
+		"MasterBundle" "mfp15.masterbundle"
+		"AssetPath" "MusicFP15/mfp15.mp3"
+	}
+	
+	"Is_Loop" "true"	
+}

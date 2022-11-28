@@ -1,0 +1,16 @@
+GUID 0294390d518748fa8a5bb2c7750ba818
+Type Spawn
+ID 27196
+Roots 4
+Root_0_Spawn_ID 241
+Root_0_Weight 4
+Root_1_Spawn_ID 383
+Root_1_Weight 4
+Root_2_Spawn_ID 623
+Root_2_Weight 4
+Root_3_Spawn_ID 759
+Root_3_Weight 4
+
+Tables 1
+Table_0_Asset_ID 27196
+Table_0_Weight 100
